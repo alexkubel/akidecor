@@ -1,24 +1,24 @@
 {
   "variants": {
     "normal": [
-    	{
-    		"model": "akidecor:green_roof_tiles"
-    		}.
-    		{
-    			"model": "akidecor:greenroof/greenroof1"
-    }.
-    {
-      "model": "akidecor:greenroof/greenroof2"
-    },
-    {
-      "model": "akidecor:greenroof/greenroof3"
-    },
-    {
-      "model": "akidecor:greenroof/greenroof4"
-    },
-    {
-      "model": "akidecor:greenroof/greenroof5"
-    }
+      {
+        "model": "akidecor:green_roof_tiles"
+      },
+      {
+        "model": "akidecor:greenroof/greenroof1"
+      },
+      {
+        "model": "akidecor:greenroof/greenroof2"
+      },
+      {
+        "model": "akidecor:greenroof/greenroof3"
+      },
+      {
+        "model": "akidecor:greenroof/greenroof4"
+      },
+      {
+        "model": "akidecor:greenroof/greenroof5"
+      }
     ]
   }
 }
