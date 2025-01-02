@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:andesite_ballast_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:andesite_ballast_slab_top"
+    }
+  }
+}

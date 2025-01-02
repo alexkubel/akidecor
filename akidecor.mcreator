@@ -2697,6 +2697,33 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "green_roof_tiles"
+    },
+    {
+      "name": "AndesiteBallast",
+      "type": "block",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "andesite_ballast"
+    },
+    {
+      "name": "AndesiteBallastSlab",
+      "type": "block",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesite_ballast_slab"
+    },
+    {
+      "name": "DioriteBallast",
+      "type": "block",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diorite_ballast"
     }
   ],
   "variable_elements": [
@@ -2808,6 +2835,7 @@
       "item.record.thecatinthewoods.desc": "The Cat from the Woods by Matcat",
       "tile.balastgravelstair.name": "Gravel Ballast Stairs",
       "tile.midhurst_brick_slab.name": "Midhurst Brick",
+      "tile.andesite_ballast.name": "Andesite Ballast",
       "tile.smooth_midhurst_stone_wall.name": "Smooth Midhurst Stone Wall",
       "tile.lakemand_brick_slab.name": "Lakeland Brick",
       "tile.balastgravel2.name": "Programmer Gravel Ballast",
@@ -2819,9 +2847,11 @@
       "tile.copperblockoxidised.name": "Oxidised Copper Block",
       "tile.richgrass.name": "Ochre Grass",
       "tile.portland_stone.name": "Portland Stone",
+      "tile.andesite_ballast_slab.name": "Andesite Ballast Slab",
       "tile.strippedmangrovelog.name": "Stripped Stupid Mangrove  Log",
       "item.carwheel.name": "Car Wheel",
       "tile.firebrick.name": "Firebrick",
+      "tile.diorite_ballast.name": "Diorite Ballast",
       "tile.lightstone.name": "Lightstone",
       "item.thecatinthewoods.name": "Music Disk",
       "tile.cherryplankfence.name": "Cherry Plank Fence",
@@ -3100,6 +3130,7 @@
       "item.record.thecatinthewoods.desc": "The Cat from the Woods by Matcat",
       "tile.balastgravelstair.name": "Alt Gravel Ballast Stairs",
       "tile.midhurst_brick_slab.name": "Midhurst Brick Slab",
+      "tile.andesite_ballast.name": "Andesite Ballast",
       "tile.smooth_midhurst_stone_wall.name": "Smooth Midhurst Stone Wall",
       "tile.lakemand_brick_slab.name": "Lakeland Brick Slab",
       "tile.balastgravel2.name": "Gravel Ballast 2",
@@ -3111,9 +3142,11 @@
       "tile.richgrass.name": "Rich Grass",
       "tile.copperblockoxidised.name": "Oxidised Copper Block",
       "tile.portland_stone.name": "Portland Stone",
+      "tile.andesite_ballast_slab.name": "Andesite Ballast Slab",
       "tile.strippedmangrovelog.name": "Stripped Mangrove Log",
       "item.carwheel.name": "Car Wheel",
       "tile.firebrick.name": "Firebrick",
+      "tile.diorite_ballast.name": "Diorite Ballast",
       "tile.lightstone.name": "Lightstone",
       "item.thecatinthewoods.name": "Music Disk",
       "tile.cherryplankfence.name": "Cherry Plank Fence",

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/andesite_ballast2",
+    "particle": "akidecor:blocks/andesite_ballast2"
+  }
+}
