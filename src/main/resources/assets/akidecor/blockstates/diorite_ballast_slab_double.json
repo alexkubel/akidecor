@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:diorite_ballast_slab_double"
+    }
+  }
+}

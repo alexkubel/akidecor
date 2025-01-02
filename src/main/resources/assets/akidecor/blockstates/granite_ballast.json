@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "akidecor:granite_ballast"
+      },
+      {
+        "model": "akidecor:granite_ballast2"
+      }
+    ]
+  }
+}

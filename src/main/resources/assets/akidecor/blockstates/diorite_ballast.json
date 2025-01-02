@@ -1,7 +1,12 @@
 {
   "variants": {
-    "normal": {
+    "normal": [
+    	{
       "model": "akidecor:diorite_ballast"
+    }.
+    {
+    	"model": "akidecor:diorite_ballast2"
     }
+    ]
   }
 }
