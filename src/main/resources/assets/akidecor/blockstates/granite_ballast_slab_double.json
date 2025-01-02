@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:granite_ballast_slab_double"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:lakestone_slab_double"
+    }
+  }
+}

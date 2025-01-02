@@ -31,19 +31,19 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 import java.util.Random;
 
 @ElementsAkidecorMod.ModElement.Tag
-public class BlockGraniteBallastSlab extends ElementsAkidecorMod.ModElement {
-	@GameRegistry.ObjectHolder("akidecor:granite_ballast_slab")
+public class BlockLakestoneSlab extends ElementsAkidecorMod.ModElement {
+	@GameRegistry.ObjectHolder("akidecor:lakestone_slab")
 	public static final Block block = null;
-	@GameRegistry.ObjectHolder("akidecor:granite_ballast_slab_double")
+	@GameRegistry.ObjectHolder("akidecor:lakestone_slab_double")
 	public static final Block block_slab_double = null;
-	public BlockGraniteBallastSlab(ElementsAkidecorMod instance) {
-		super(instance, 320);
+	public BlockLakestoneSlab(ElementsAkidecorMod instance) {
+		super(instance, 322);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("granite_ballast_slab"));
-		elements.blocks.add(() -> new BlockCustom.Double().setRegistryName("granite_ballast_slab_double"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("lakestone_slab"));
+		elements.blocks.add(() -> new BlockCustom.Double().setRegistryName("lakestone_slab_double"));
 		elements.items.add(() -> new ItemSlab(block, (BlockSlab) block, (BlockSlab) block_slab_double).setRegistryName(block.getRegistryName()));
 	}
 
@@ -51,19 +51,20 @@ public class BlockGraniteBallastSlab extends ElementsAkidecorMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("akidecor:granite_ballast_slab", "inventory"));
+				new ModelResourceLocation("akidecor:lakestone_slab", "inventory"));
 	}
 	public static class BlockCustom extends BlockSlab {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("granite_ballast_slab");
-			setSoundType(SoundType.GROUND);
-			setHarvestLevel("shovel", 1);
+			setUnlocalizedName("lakestone_slab");
+			setSoundType(SoundType.STONE);
+			setHarvestLevel("pickaxe", 1);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(TabAkisbricks.tab);
+			setDefaultSlipperiness(1f);
 			IBlockState state = this.blockState.getBaseState().withProperty(VARIANT, BlockCustom.Variant.DEFAULT);
 			if (!this.isDouble())
 				state = state.withProperty(BlockSlab.HALF, EnumBlockHalf.BOTTOM);

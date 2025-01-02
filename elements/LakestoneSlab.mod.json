@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "granite_ballast1",
+    "texture": "lakestone",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -33,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Granite Ballast Slab",
+    "name": "Lakestone Slab",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -42,7 +42,7 @@
     "creativeTab": {
       "value": "CUSTOM:Akisbricks"
     },
-    "destroyTool": "shovel",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
@@ -67,13 +67,13 @@
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
-    "slipperiness": 0.6,
-    "speedFactor": 1.0,
+    "slipperiness": 1.0,
+    "speedFactor": 1.2,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "STONE"
     },
     "luminance": 0,
     "unbreakable": false,

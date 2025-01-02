@@ -1,5 +1,5 @@
 {
-  "parent": "block/half_slab",
+  "parent": "block/upper_slab",
   "textures": {
     "bottom": "akidecor:blocks/granite_ballast1",
     "top": "akidecor:blocks/granite_ballast1",

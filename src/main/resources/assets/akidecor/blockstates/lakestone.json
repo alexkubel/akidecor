@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "akidecor:lakestone"
+      },
+      {
+        "model": "akidecor:lakestone2"
+      },
+      {
+        "model": "akidecor:lakestone3"
+      }
+    ]
+  }
+}

@@ -1,10 +1,10 @@
 {
   "variants": {
     "half=bottom,variant=default": {
-      "model": "akidecor:granite_ballast_slab"
+      "model": "akidecor:lakestone_slab"
     },
     "half=top,variant=default": {
-      "model": "akidecor:granite_ballast_slab_top"
+      "model": "akidecor:lakestone_slab_top"
     }
   }
 }
