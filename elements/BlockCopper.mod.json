@@ -1,0 +1,34 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CopperBlock"
+      },
+      {
+        "value": "CUSTOM:CopperBlockExposed"
+      },
+      {
+        "value": "CUSTOM:CopperBlockWeathered"
+      },
+      {
+        "value": "CUSTOM:CopperBlockOxidised"
+      },
+      {
+        "value": "CUSTOM:CutCopper"
+      },
+      {
+        "value": "CUSTOM:CopperCutExposed"
+      },
+      {
+        "value": "CUSTOM:CopperCutWeathered"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "blockCopper",
+    "namespace": "forge"
+  }
+}

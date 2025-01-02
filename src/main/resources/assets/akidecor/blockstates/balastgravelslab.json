@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:balastgravelslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:balastgravelslab_top"
+    }
+  }
+}

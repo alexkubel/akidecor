@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:flintslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:flintslab_top"
+    }
+  }
+}

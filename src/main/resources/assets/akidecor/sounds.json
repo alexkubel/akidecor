@@ -1,0 +1,101 @@
+{
+  "song.seaside": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:easide_-_athan_kora",
+        "stream": true
+      }
+    ]
+  },
+  "song.journey": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:journey",
+        "stream": true
+      }
+    ]
+  },
+  "song.dnd": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:dognald",
+        "stream": true
+      }
+    ]
+  },
+  "song.distant_memory": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:distant_memory",
+        "stream": true
+      }
+    ]
+  },
+  "piano_concerto_no_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:piano_concerto_no_1",
+        "stream": true
+      }
+    ]
+  },
+  "an_ethereal_ending": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:an_ethereal_ending",
+        "stream": true
+      }
+    ]
+  },
+  "daily_life": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:daily_life",
+        "stream": true
+      }
+    ]
+  },
+  "the_cat_from_the_woods": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:the_cat_from_the_woods",
+        "stream": true
+      }
+    ]
+  },
+  "the_wolf": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:the_wolf",
+        "stream": true
+      }
+    ]
+  },
+  "song.bertha": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:big_bertha",
+        "stream": true
+      }
+    ]
+  },
+  "song.flower_waltz": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "akidecor:flower_waltz",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Balastgravel"
+      },
+      {
+        "value": "CUSTOM:Balastgravel2"
+      },
+      {
+        "value": "CUSTOM:BalastGravel3"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "gravel",
+    "namespace": "forge"
+  }
+}

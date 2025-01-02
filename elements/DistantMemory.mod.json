@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "distantmemorydisc",
+    "name": "Music Disc",
+    "description": "Distant Memory by Nathan Sikora",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:song.distant_memory"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

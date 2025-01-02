@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ranwaydisc",
+    "name": "Journey",
+    "description": "Journey by Nathan Sikora",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:song.journey"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

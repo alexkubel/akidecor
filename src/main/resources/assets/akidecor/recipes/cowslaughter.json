@@ -1,0 +1,13 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "akidecor:cowtoken"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beef",
+    "count": 4
+  }
+}

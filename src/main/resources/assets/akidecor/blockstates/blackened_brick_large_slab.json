@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:blackened_brick_large_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:blackened_brick_large_slab_top"
+    }
+  }
+}

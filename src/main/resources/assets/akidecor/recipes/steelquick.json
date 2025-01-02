@@ -1,0 +1,17 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "fuelCoke"
+    }
+  ],
+  "result": {
+    "item": "akidecor:barsteel",
+    "count": 1
+  }
+}

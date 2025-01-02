@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/flint_wall",
+    "particle": "akidecor:blocks/flint_wall"
+  }
+}

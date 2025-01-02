@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "akidecor:blocks/midhurst_large_bricks",
+    "particle": "akidecor:blocks/midhurst_large_bricks"
+  }
+}

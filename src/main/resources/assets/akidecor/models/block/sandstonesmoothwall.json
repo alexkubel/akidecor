@@ -1,0 +1,8 @@
+{
+  "parent": "akidecor:custom/thiccwall",
+  "textures": {
+    "all": "akidecor:blocks/yellow_heathers",
+    "particle": "akidecor:blocks/smooth_lightstone",
+    "0": "akidecor:blocks/smooth_lightstone"
+  }
+}

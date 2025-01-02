@@ -1,0 +1,39 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "akidecor:whistle_board.obj"
+  },
+  "variants": {
+    "normal": {
+      "model": "akidecor:whistle_board.obj"
+    },
+    "facing=north": {
+      "model": "akidecor:whistle_board.obj"
+    },
+    "facing=east": {
+      "model": "akidecor:whistle_board.obj",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "akidecor:whistle_board.obj",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "akidecor:whistle_board.obj",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "akidecor:whistle_board.obj",
+      "x": 90
+    },
+    "facing=down": {
+      "model": "akidecor:whistle_board.obj",
+      "x": 270
+    },
+    "inventory": [
+      {
+        "transform": "forge:default-item"
+      }
+    ]
+  }
+}

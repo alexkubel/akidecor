@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/raw_iron",
+    "particle": "akidecor:blocks/raw_iron"
+  }
+}

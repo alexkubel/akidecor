@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "akidecor:blocks/flint_wall",
+    "particle": "akidecor:blocks/flint_wall"
+  }
+}

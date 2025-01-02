@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "akidecor:blocks/smooth_lightstone",
+    "particle": "akidecor:blocks/smooth_lightstone"
+  }
+}

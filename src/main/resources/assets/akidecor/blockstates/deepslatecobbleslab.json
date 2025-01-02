@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:deepslatecobbleslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:deepslatecobbleslab_top"
+    }
+  }
+}

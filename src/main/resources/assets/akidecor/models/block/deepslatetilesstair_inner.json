@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/deepslate_tiles",
+    "top": "akidecor:blocks/deepslate_tiles",
+    "side": "akidecor:blocks/deepslate_tiles"
+  }
+}

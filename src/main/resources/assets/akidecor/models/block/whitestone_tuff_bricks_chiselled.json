@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/chiseled_whitestone_tuff_top",
+    "up": "akidecor:blocks/chiseled_whitestone_tuff_bricks_top",
+    "north": "akidecor:blocks/chiseled_whitestone_tuff",
+    "east": "akidecor:blocks/chiseled_whitestone_tuff",
+    "south": "akidecor:blocks/chiseled_whitestone_tuff",
+    "west": "akidecor:blocks/chiseled_whitestone_tuff",
+    "particle": "akidecor:blocks/chiseled_whitestone_tuff_top"
+  }
+}

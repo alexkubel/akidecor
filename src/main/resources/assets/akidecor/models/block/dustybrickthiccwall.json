@@ -1,0 +1,8 @@
+{
+  "parent": "akidecor:custom/thiccwall",
+  "textures": {
+    "all": "akidecor:blocks/brick_tan",
+    "particle": "akidecor:blocks/brick_tan",
+    "0": "akidecor:blocks/brick_tan"
+  }
+}

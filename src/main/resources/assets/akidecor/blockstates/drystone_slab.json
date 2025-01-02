@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:drystone_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:drystone_slab_top"
+    }
+  }
+}

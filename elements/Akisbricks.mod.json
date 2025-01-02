@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Akisbricks",
+    "icon": {
+      "value": "CUSTOM:Brick1"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BarSteel"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "ingotSteel",
+    "namespace": "forge"
+  }
+}

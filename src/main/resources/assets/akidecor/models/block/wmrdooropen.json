@@ -1,0 +1,8 @@
+{
+  "parent": "akidecor:custom/dooropen",
+  "textures": {
+    "all": "akidecor:blocks/texture",
+    "particle": "akidecor:blocks/texture",
+    "0": "akidecor:blocks/texture"
+  }
+}

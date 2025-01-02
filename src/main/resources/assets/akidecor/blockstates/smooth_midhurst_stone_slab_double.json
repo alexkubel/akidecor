@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:smooth_midhurst_stone_slab_double"
+    }
+  }
+}

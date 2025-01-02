@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "akidecor",
+    "name": "Aki's Nordalian Decor Mod",
+    "description": "The Nordale Decor Mod by Aki",
+    "version": "0.1.4.2",
+    "credits": "Aki's Nordalian Decor Mod pack",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://www.nordale.uk/",
+    "updateUrl": "",
+    "authorList": [
+      "Akieve"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

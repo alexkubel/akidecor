@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/mud_bricks",
+    "particle": "akidecor:blocks/mud_bricks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:highland_clay_large_brick_slab_double"
+    }
+  }
+}

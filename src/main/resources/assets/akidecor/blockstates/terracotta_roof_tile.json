@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "akidecor:terracottaroof/terracottaroof1"
+      },
+      {
+        "model": "akidecor:terracottaroof/terracottaroof2"
+      },
+      {
+        "model": "akidecor:terracottaroof/terracottaroof3"
+      },
+      {
+        "model": "akidecor:terracottaroof/terracottaroof4"
+      },
+      {
+        "model": "akidecor:terracottaroof/terracottaroof5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/terracotta_roof_block_1",
+    "particle": "akidecor:blocks/terracotta_roof_block_1"
+  }
+}

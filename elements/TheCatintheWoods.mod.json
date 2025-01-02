@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "default_disc",
+    "name": "Music Disk",
+    "description": "The Cat from the Woods by Matcat",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:the_cat_from_the_woods"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "akidecor:blocks/highland_clay_large_bricks",
+    "particle": "akidecor:blocks/highland_clay_large_bricks"
+  }
+}

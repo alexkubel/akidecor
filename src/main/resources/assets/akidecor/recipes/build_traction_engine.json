@@ -1,0 +1,34 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:tractionenginecomponent"
+    },
+    "1": {
+      "item": "akidecor:tractionenginecomponent"
+    },
+    "2": {
+      "type": "forge:ore_dict",
+      "ore": "ingotBronze"
+    },
+    "3": {
+      "item": "akidecor:tractionenginecomponent"
+    },
+    "4": {
+      "item": "akidecor:tractionenginecomponent"
+    },
+    "5": {
+      "type": "forge:ore_dict",
+      "ore": "plankTreatedWood"
+    }
+  },
+  "result": {
+    "item": "akidecor:traction_engine",
+    "count": 1
+  }
+}

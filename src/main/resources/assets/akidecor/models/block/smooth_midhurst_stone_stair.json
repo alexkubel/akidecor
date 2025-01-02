@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/smooth_midhurst_stone",
+    "top": "akidecor:blocks/smooth_midhurst_stone",
+    "side": "akidecor:blocks/smooth_midhurst_stone"
+  }
+}

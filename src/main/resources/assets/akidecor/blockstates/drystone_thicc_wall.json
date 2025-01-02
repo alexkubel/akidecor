@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "akidecor:drystone_thicc_wall"
+    },
+    "facing=north": {
+      "model": "akidecor:drystone_thicc_wall"
+    },
+    "facing=east": {
+      "model": "akidecor:drystone_thicc_wall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "akidecor:drystone_thicc_wall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "akidecor:drystone_thicc_wall",
+      "y": 270
+    }
+  }
+}

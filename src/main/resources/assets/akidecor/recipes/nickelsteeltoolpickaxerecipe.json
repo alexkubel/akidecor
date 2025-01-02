@@ -1,0 +1,30 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:nickelsteel"
+    },
+    "1": {
+      "item": "akidecor:nickelsteel"
+    },
+    "2": {
+      "item": "akidecor:nickelsteel"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "akidecor:nickelsteeltoolpickaxe",
+    "count": 1
+  }
+}

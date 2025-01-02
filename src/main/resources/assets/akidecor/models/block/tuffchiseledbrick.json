@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/chiseled_tuff_bricks_top",
+    "up": "akidecor:blocks/chiseled_tuff_bricks_top",
+    "north": "akidecor:blocks/chiseled_tuff_bricks",
+    "east": "akidecor:blocks/chiseled_tuff_bricks",
+    "south": "akidecor:blocks/chiseled_tuff_bricks",
+    "west": "akidecor:blocks/chiseled_tuff_bricks",
+    "particle": "akidecor:blocks/chiseled_tuff_bricks_top"
+  }
+}

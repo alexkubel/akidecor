@@ -1,0 +1,58 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brick_gray"
+      },
+      "name": "default"
+    },
+    "largeflatstonebrick": {
+      "map": {
+        "0": "flat_stone_brick_big"
+      },
+      "name": "largeflatstonebrick"
+    },
+    "jappabrick": {
+      "map": {
+        "0": "brick"
+      },
+      "name": "jappabrick"
+    },
+    "dustybrick": {
+      "map": {
+        "0": "brick_tan"
+      },
+      "name": "dustybrick"
+    },
+    "deepslate": {
+      "map": {
+        "0": "deepslate_side"
+      },
+      "name": "deepslate"
+    },
+    "empty": {
+      "map": {
+        "0": ""
+      },
+      "name": "empty"
+    },
+    "flint": {
+      "map": {
+        "0": "flint_wall"
+      },
+      "name": "flint"
+    },
+    "gratestone": {
+      "map": {
+        "0": "gratestone"
+      },
+      "name": "gratestone"
+    },
+    "gratestonebrick": {
+      "map": {
+        "0": "gratestone_brick"
+      },
+      "name": "gratestonebrick"
+    }
+  }
+}

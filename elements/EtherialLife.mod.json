@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "distantmemorydisc",
+    "name": "Music Disk",
+    "description": "an Ethereal Ending by Matcat",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:an_ethereal_ending"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

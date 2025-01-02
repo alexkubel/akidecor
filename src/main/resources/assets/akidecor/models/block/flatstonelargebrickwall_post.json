@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "akidecor:blocks/flat_stone_brick_big",
+    "particle": "akidecor:blocks/flat_stone_brick_big"
+  }
+}

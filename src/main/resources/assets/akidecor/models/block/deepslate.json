@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/deepslate_top",
+    "up": "akidecor:blocks/deepslate_top",
+    "north": "akidecor:blocks/deepslate_side",
+    "east": "akidecor:blocks/deepslate_side",
+    "south": "akidecor:blocks/deepslate_side",
+    "west": "akidecor:blocks/deepslate_side",
+    "particle": "akidecor:blocks/deepslate_top"
+  }
+}

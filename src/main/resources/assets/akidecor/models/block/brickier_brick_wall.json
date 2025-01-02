@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "akidecor:blocks/brickier_brick",
+    "particle": "akidecor:blocks/brickier_brick"
+  }
+}

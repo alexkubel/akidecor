@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "akidecor:blocks/mangrove_planks",
+    "particle": "akidecor:blocks/mangrove_planks"
+  }
+}

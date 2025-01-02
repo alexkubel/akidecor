@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/brick_thin",
+    "top": "akidecor:blocks/brick_thin",
+    "side": "akidecor:blocks/brick_thin"
+  }
+}

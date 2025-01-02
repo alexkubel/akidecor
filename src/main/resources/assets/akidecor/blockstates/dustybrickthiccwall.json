@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "akidecor:dustybrickthiccwall"
+    },
+    "facing=north": {
+      "model": "akidecor:dustybrickthiccwall"
+    },
+    "facing=east": {
+      "model": "akidecor:dustybrickthiccwall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "akidecor:dustybrickthiccwall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "akidecor:dustybrickthiccwall",
+      "y": 270
+    }
+  }
+}

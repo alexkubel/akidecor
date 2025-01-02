@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/gravel",
+    "top": "akidecor:blocks/gravel",
+    "side": "akidecor:blocks/gravel"
+  }
+}

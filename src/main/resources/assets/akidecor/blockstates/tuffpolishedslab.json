@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:tuffpolishedslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:tuffpolishedslab_top"
+    }
+  }
+}

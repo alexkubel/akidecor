@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/portland_stone_large_brick",
+    "particle": "akidecor:blocks/portland_stone_large_brick"
+  }
+}

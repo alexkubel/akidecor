@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "akidecor:blocks/brick_alt",
+    "top": "akidecor:blocks/brick_alt",
+    "side": "akidecor:blocks/brick_alt"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:nickelsteel"
+    },
+    "2": {
+      "item": "akidecor:nickelsteel"
+    },
+    "3": {
+      "item": "akidecor:nickelsteel"
+    },
+    "5": {
+      "item": "akidecor:nickelsteel"
+    }
+  },
+  "result": {
+    "item": "akidecor:nickelsteelarmarmorboots",
+    "count": 1
+  }
+}

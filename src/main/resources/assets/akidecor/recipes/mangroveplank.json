@@ -1,0 +1,16 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:mangrovelog"
+    }
+  },
+  "result": {
+    "item": "akidecor:mangroveplanks",
+    "count": 4
+  }
+}

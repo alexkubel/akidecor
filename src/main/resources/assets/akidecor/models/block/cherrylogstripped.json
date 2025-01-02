@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/cherry_log_stripped_top",
+    "up": "akidecor:blocks/cherry_log_stripped_top",
+    "north": "akidecor:blocks/cherry_log_stripped_side",
+    "east": "akidecor:blocks/cherry_log_stripped_side",
+    "south": "akidecor:blocks/cherry_log_stripped_side",
+    "west": "akidecor:blocks/cherry_log_stripped_side",
+    "particle": "akidecor:blocks/cherry_log_stripped_top"
+  }
+}

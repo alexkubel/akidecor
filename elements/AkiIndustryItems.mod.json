@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Aki Industry Items",
+    "icon": {
+      "value": "CUSTOM:TractionEngine"
+    },
+    "showSearch": true
+  }
+}

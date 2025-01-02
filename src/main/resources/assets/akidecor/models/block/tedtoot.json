@@ -1,0 +1,7 @@
+{
+  "parent": "akidecor:custom/whistle_board",
+  "textures": {
+    "all": "akidecor:blocks/whistle_board",
+    "particle": "akidecor:blocks/whistle_board"
+  }
+}

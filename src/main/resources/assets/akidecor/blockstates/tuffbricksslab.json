@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:tuffbricksslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:tuffbricksslab_top"
+    }
+  }
+}

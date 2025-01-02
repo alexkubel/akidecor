@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "akidecor:blocks/smooth_midhurst_stone",
+    "particle": "akidecor:blocks/smooth_midhurst_stone"
+  }
+}

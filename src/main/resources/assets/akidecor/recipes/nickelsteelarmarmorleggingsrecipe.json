@@ -1,0 +1,36 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:nickelsteel"
+    },
+    "1": {
+      "item": "akidecor:nickelsteel"
+    },
+    "2": {
+      "item": "akidecor:nickelsteel"
+    },
+    "3": {
+      "item": "akidecor:nickelsteel"
+    },
+    "5": {
+      "item": "akidecor:nickelsteel"
+    },
+    "6": {
+      "item": "akidecor:nickelsteel"
+    },
+    "8": {
+      "item": "akidecor:nickelsteel"
+    }
+  },
+  "result": {
+    "item": "akidecor:nickelsteelarmarmorlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brendadisc",
+    "name": "Music Disc",
+    "description": "Flower Waltz",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:song.flower_waltz"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

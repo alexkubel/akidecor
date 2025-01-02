@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:smooth_highland_tuff_slab_double"
+    }
+  }
+}

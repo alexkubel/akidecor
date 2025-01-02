@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "akidecor:blocks/rich_clay_brick",
+    "particle": "akidecor:blocks/rich_clay_brick"
+  }
+}

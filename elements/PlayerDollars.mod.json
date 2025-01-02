@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Functions",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "name": "playerdollars",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:mudbrickslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:mudbrickslab_top"
+    }
+  }
+}

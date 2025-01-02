@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/deepslate_tiles",
+    "particle": "akidecor:blocks/deepslate_tiles"
+  }
+}

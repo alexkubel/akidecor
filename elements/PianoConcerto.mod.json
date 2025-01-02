@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "rain",
+    "name": "Music Disk",
+    "description": "Piano Concerto No 1",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:piano_concerto_no_1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

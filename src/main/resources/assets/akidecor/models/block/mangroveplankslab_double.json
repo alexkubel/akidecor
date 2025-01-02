@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/mangrove_planks",
+    "particle": "akidecor:blocks/mangrove_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:smooth_midhurst_stone_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:smooth_midhurst_stone_slab_top"
+    }
+  }
+}

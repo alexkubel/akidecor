@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "akidecor:blocks/cobbled_deepslate",
+    "particle": "akidecor:blocks/cobbled_deepslate"
+  }
+}

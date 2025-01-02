@@ -1,0 +1,13 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "akidecor:malk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:milk_bucket",
+    "count": 1
+  }
+}

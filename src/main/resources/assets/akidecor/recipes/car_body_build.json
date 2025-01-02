@@ -1,0 +1,16 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "akidecor:barsteel"
+    }
+  ],
+  "result": {
+    "item": "akidecor:carbody",
+    "count": 1
+  }
+}

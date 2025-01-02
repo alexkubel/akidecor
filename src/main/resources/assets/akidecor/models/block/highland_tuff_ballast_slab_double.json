@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/cshrballast1",
+    "particle": "akidecor:blocks/cshrballast1"
+  }
+}

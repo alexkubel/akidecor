@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:whitestone_tuff_brick_slab_double"
+    }
+  }
+}

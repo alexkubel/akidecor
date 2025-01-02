@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/oxidized_chiseled_copper",
+    "particle": "akidecor:blocks/oxidized_chiseled_copper"
+  }
+}

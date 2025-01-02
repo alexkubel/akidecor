@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brendadisc",
+    "name": "Music Disk",
+    "description": "The Wolfby Matcat",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:the_wolf"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

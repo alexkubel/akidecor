@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "akidecor:blocks/cherry_planks",
+    "particle": "akidecor:blocks/cherry_planks"
+  }
+}

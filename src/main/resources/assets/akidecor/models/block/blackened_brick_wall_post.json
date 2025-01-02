@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "akidecor:blocks/blackened_brick",
+    "particle": "akidecor:blocks/blackened_brick"
+  }
+}

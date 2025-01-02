@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:lightstoneslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:lightstoneslab_top"
+    }
+  }
+}

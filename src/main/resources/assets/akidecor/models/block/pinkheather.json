@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "akidecor:blocks/pink_heather",
+    "particle": "akidecor:blocks/pink_heather"
+  }
+}

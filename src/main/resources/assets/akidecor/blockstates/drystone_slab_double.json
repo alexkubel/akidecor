@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:drystone_slab_double"
+    }
+  }
+}

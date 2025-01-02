@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "distantmemorydisc",
+    "name": "Seaside",
+    "description": "Seaside by Nathan Sikora",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:song.seaside"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

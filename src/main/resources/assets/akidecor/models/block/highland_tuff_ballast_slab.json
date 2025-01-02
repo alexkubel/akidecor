@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "akidecor:blocks/cshrballast1",
+    "top": "akidecor:blocks/cshrballast1",
+    "side": "akidecor:blocks/cshrballast1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "akidecor:flintthiccwall"
+    },
+    "facing=north": {
+      "model": "akidecor:flintthiccwall"
+    },
+    "facing=east": {
+      "model": "akidecor:flintthiccwall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "akidecor:flintthiccwall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "akidecor:flintthiccwall",
+      "y": 270
+    }
+  }
+}

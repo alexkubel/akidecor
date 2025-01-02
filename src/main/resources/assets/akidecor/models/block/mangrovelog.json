@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/mangrove_log_top",
+    "up": "akidecor:blocks/mangrove_log_top",
+    "north": "akidecor:blocks/mangrove_log_side",
+    "east": "akidecor:blocks/mangrove_log_side",
+    "south": "akidecor:blocks/mangrove_log_side",
+    "west": "akidecor:blocks/mangrove_log_side",
+    "particle": "akidecor:blocks/mangrove_log_top"
+  }
+}

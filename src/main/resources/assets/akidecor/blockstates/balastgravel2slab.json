@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:balastgravel2slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:balastgravel2slab_top"
+    }
+  }
+}

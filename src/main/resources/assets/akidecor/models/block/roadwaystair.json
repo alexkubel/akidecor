@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/roadway",
+    "top": "akidecor:blocks/roadway",
+    "side": "akidecor:blocks/roadway"
+  }
+}

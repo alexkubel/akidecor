@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vatr_disc",
+    "name": "Music Disc",
+    "description": "Two Pissing Six Coupled Goods Doing Their Best",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "music": {
+      "value": "CUSTOM:song.dnd"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

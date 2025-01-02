@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:portland_stone_slab_double"
+    }
+  }
+}

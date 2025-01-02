@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:brick5slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:brick5slab_top"
+    }
+  }
+}

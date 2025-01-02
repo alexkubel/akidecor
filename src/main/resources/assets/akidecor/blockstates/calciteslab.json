@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:calciteslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:calciteslab_top"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:highland_tuff_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:highland_tuff_slab_top"
+    }
+  }
+}

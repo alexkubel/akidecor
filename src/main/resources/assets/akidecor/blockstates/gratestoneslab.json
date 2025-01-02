@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:gratestoneslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:gratestoneslab_top"
+    }
+  }
+}

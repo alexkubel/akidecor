@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:mangroveplankslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:mangroveplankslab_top"
+    }
+  }
+}

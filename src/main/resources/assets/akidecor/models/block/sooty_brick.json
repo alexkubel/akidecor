@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/sooted_brick",
+    "particle": "akidecor:blocks/sooted_brick"
+  }
+}

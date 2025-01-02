@@ -1,0 +1,39 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "akidecor:carwheel"
+    },
+    "1": {
+      "item": "akidecor:carengine"
+    },
+    "2": {
+      "item": "akidecor:carwheel"
+    },
+    "4": {
+      "item": "akidecor:advcarbody"
+    },
+    "5": {
+      "item": "akidecor:carinterior"
+    },
+    "6": {
+      "item": "akidecor:carwheel"
+    },
+    "7": {
+      "item": "akidecor:carframe"
+    },
+    "8": {
+      "item": "akidecor:carwheel"
+    }
+  },
+  "result": {
+    "item": "akidecor:adv_car",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:roadwayslab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:roadwayslab_top"
+    }
+  }
+}

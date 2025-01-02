@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "akidecor:blocks/mud_bricks",
+    "particle": "akidecor:blocks/mud_bricks"
+  }
+}

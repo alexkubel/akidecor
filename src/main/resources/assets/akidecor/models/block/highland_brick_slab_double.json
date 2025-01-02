@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/rich_clay_brick",
+    "particle": "akidecor:blocks/rich_clay_brick"
+  }
+}

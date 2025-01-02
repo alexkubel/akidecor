@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/highland_clay_large_bricks",
+    "particle": "akidecor:blocks/highland_clay_large_bricks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vatr_disc",
+    "name": "Music Disc",
+    "description": "Daily Life by Matcat",
+    "creativeTab": {
+      "value": "CUSTOM:AkimodMisc"
+    },
+    "music": {
+      "value": "CUSTOM:daily_life"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

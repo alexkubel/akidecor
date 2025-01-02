@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/cobbled_deepslate",
+    "top": "akidecor:blocks/cobbled_deepslate",
+    "side": "akidecor:blocks/cobbled_deepslate"
+  }
+}
