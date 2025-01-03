@@ -2,14 +2,14 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "brick_tan",
+    "texture": "blackened_large_bricks",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "thiccwall:dustybrick",
+    "customModelName": "thiccwall:jappabrick",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Dusty Brick Thicc Wall",
+    "name": "Jappa Brick Thicc Wall",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -41,7 +41,7 @@
     "creativeTab": {
       "value": "CUSTOM:Akisbricks"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "customDrop": {
       "value": ""
     },

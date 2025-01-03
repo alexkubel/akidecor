@@ -74,13 +74,13 @@ public class BlockDeepslateThiccWall extends ElementsAkidecorMod.ModElement {
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(11.008, 0, 16, 4.992, 16, 0));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(15.6875, 0, 16, 15.3125, 1, 15));
 				case NORTH :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(4.992, 0, 0, 11.008, 16, 16));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0.3125, 0, 0, 0.6875, 1, 1));
 				case EAST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 4.992, 0, 16, 11.008));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 0.3125, 15, 1, 0.6875));
 				case WEST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 11.008, 16, 16, 4.992));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 15.6875, 1, 1, 15.3125));
 			}
 		}
 

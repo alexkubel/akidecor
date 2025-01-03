@@ -26,20 +26,20 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.Block;
 
-import net.mcreator.akidecormod.creativetab.TabAkisbricks;
+import net.mcreator.akidecormod.creativetab.TabFutureNordale;
 import net.mcreator.akidecormod.ElementsAkidecorMod;
 
 @ElementsAkidecorMod.ModElement.Tag
-public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElement {
-	@GameRegistry.ObjectHolder("akidecor:gratestonebrickthiccwall")
+public class BlockCalciteThiccWall extends ElementsAkidecorMod.ModElement {
+	@GameRegistry.ObjectHolder("akidecor:calcite_thicc_wall")
 	public static final Block block = null;
-	public BlockGratestoneBrickThiccWall(ElementsAkidecorMod instance) {
-		super(instance, 67);
+	public BlockCalciteThiccWall(ElementsAkidecorMod instance) {
+		super(instance, 326);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("gratestonebrickthiccwall"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("calcite_thicc_wall"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -47,19 +47,19 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("akidecor:gratestonebrickthiccwall", "inventory"));
+				new ModelResourceLocation("akidecor:calcite_thicc_wall", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public static final PropertyDirection FACING = BlockHorizontal.FACING;
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("gratestonebrickthiccwall");
+			setUnlocalizedName("calcite_thicc_wall");
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(0);
-			setCreativeTab(TabAkisbricks.tab);
+			setCreativeTab(TabFutureNordale.tab);
 			this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
 		}
 
@@ -111,9 +111,7 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 		@Override
 		public IBlockState getStateForPlacement(World worldIn, BlockPos pos, EnumFacing facing, float hitX, float hitY, float hitZ, int meta,
 				EntityLivingBase placer) {
-			if (facing == EnumFacing.UP || facing == EnumFacing.DOWN)
-				return this.getDefaultState().withProperty(FACING, EnumFacing.NORTH);
-			return this.getDefaultState().withProperty(FACING, facing);
+			return this.getDefaultState().withProperty(FACING, placer.getHorizontalFacing().getOpposite());
 		}
 
 		@Override

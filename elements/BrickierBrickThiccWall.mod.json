@@ -2,14 +2,14 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "brick_tan",
+    "texture": "brickier_brick",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "thiccwall:dustybrick",
+    "customModelName": "thiccwall:jappabrick",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Dusty Brick Thicc Wall",
+    "name": "Brickier Brick Thicc Wall",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

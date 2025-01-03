@@ -30,16 +30,16 @@ import net.mcreator.akidecormod.creativetab.TabAkisbricks;
 import net.mcreator.akidecormod.ElementsAkidecorMod;
 
 @ElementsAkidecorMod.ModElement.Tag
-public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElement {
-	@GameRegistry.ObjectHolder("akidecor:gratestonebrickthiccwall")
+public class BlockBlackenedBrickThiccWall extends ElementsAkidecorMod.ModElement {
+	@GameRegistry.ObjectHolder("akidecor:blackened_brick_thicc_wall")
 	public static final Block block = null;
-	public BlockGratestoneBrickThiccWall(ElementsAkidecorMod instance) {
-		super(instance, 67);
+	public BlockBlackenedBrickThiccWall(ElementsAkidecorMod instance) {
+		super(instance, 323);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("gratestonebrickthiccwall"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("blackened_brick_thicc_wall"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -47,13 +47,13 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("akidecor:gratestonebrickthiccwall", "inventory"));
+				new ModelResourceLocation("akidecor:blackened_brick_thicc_wall", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public static final PropertyDirection FACING = BlockHorizontal.FACING;
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("gratestonebrickthiccwall");
+			setUnlocalizedName("blackened_brick_thicc_wall");
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
@@ -73,13 +73,13 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(15.6875, 0, 16, 15.3125, 1, 15));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0.6875, 0, 1, 0.3125, 1, 0));
 				case NORTH :
 					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0.3125, 0, 0, 0.6875, 1, 1));
 				case EAST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 0.3125, 15, 1, 0.6875));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(1, 0, 0.3125, 0, 1, 0.6875));
 				case WEST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 15.6875, 1, 1, 15.3125));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0.6875, 1, 1, 0.3125));
 			}
 		}
 
@@ -111,9 +111,7 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 		@Override
 		public IBlockState getStateForPlacement(World worldIn, BlockPos pos, EnumFacing facing, float hitX, float hitY, float hitZ, int meta,
 				EntityLivingBase placer) {
-			if (facing == EnumFacing.UP || facing == EnumFacing.DOWN)
-				return this.getDefaultState().withProperty(FACING, EnumFacing.NORTH);
-			return this.getDefaultState().withProperty(FACING, facing);
+			return this.getDefaultState().withProperty(FACING, placer.getHorizontalFacing().getOpposite());
 		}
 
 		@Override
