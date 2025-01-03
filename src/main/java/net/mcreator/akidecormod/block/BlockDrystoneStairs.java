@@ -7,15 +7,12 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
-import net.minecraft.util.NonNullList;
-import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
-import net.minecraft.block.BlockWall;
+import net.minecraft.block.BlockStairs;
 import net.minecraft.block.Block;
 
 import net.mcreator.akidecormod.creativetab.TabAkisbricks;
@@ -41,9 +38,9 @@ public class BlockDrystoneStairs extends ElementsAkidecorMod.ModElement {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
 				new ModelResourceLocation("akidecor:drystone_stairs", "inventory"));
 	}
-	public static class BlockCustom extends BlockWall {
+	public static class BlockCustom extends BlockStairs {
 		public BlockCustom() {
-			super(new Block(Material.ROCK));
+			super(new Block(Material.ROCK).getDefaultState());
 			setUnlocalizedName("drystone_stairs");
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
@@ -51,11 +48,6 @@ public class BlockDrystoneStairs extends ElementsAkidecorMod.ModElement {
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(TabAkisbricks.tab);
-		}
-
-		@Override
-		public void getSubBlocks(CreativeTabs tab, NonNullList<ItemStack> items) {
-			items.add(new ItemStack(this));
 		}
 	}
 }

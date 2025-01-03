@@ -13,6 +13,7 @@ import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.block.state.IBlockState;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockWall;
@@ -56,6 +57,11 @@ public class BlockBlackenedBrickWall extends ElementsAkidecorMod.ModElement {
 		@Override
 		public void getSubBlocks(CreativeTabs tab, NonNullList<ItemStack> items) {
 			items.add(new ItemStack(this));
+		}
+
+		@Override
+		public boolean isOpaqueCube(IBlockState state) {
+			return false;
 		}
 	}
 }

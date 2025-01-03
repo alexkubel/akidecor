@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/drystonewalls",
+    "top": "akidecor:blocks/drystonewalls",
+    "side": "akidecor:blocks/drystonewalls"
+  }
+}

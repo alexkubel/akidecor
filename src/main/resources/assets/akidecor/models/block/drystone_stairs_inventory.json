@@ -1,7 +1,0 @@
-{
-  "parent": "block/wall_inventory",
-  "textures": {
-    "wall": "akidecor:blocks/drystonewalls",
-    "particle": "akidecor:blocks/drystonewalls"
-  }
-}

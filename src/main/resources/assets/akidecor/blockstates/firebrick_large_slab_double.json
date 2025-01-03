@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:firebrick_large_slab_double"
+    }
+  }
+}

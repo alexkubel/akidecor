@@ -3,6 +3,6 @@
   "textures": {
     "all": "akidecor:blocks/blackened_brick",
     "particle": "akidecor:blocks/blackened_brick",
-    "0": "akidecor:blocks/gratestone"
+    "0": "akidecor:blocks/blackened_brick"
   }
 }

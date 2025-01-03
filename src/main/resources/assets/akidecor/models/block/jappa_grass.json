@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "bottom": "akidecor:blocks/dirt",
+    "top": "akidecor:blocks/grass_top",
+    "side": "akidecor:blocks/grass_side_overlay",
+    "particle": "akidecor:blocks/dirt"
+  }
+}

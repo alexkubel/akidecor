@@ -16,7 +16,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockStairs;
 import net.minecraft.block.Block;
 
-import net.mcreator.akidecormod.creativetab.TabAkisbricks;
+import net.mcreator.akidecormod.creativetab.TabFutureNordale;
 import net.mcreator.akidecormod.ElementsAkidecorMod;
 
 @ElementsAkidecorMod.ModElement.Tag
@@ -49,7 +49,7 @@ public class BlockDeepslateTilesStair extends ElementsAkidecorMod.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(0);
-			setCreativeTab(TabAkisbricks.tab);
+			setCreativeTab(TabFutureNordale.tab);
 		}
 
 		@Override

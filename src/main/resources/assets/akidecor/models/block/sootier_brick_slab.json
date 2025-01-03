@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "akidecor:blocks/sootier_brick",
+    "top": "akidecor:blocks/sootier_brick",
+    "side": "akidecor:blocks/sootier_brick"
+  }
+}
