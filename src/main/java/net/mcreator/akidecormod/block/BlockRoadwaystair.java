@@ -24,7 +24,7 @@ public class BlockRoadwaystair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:roadwaystair")
 	public static final Block block = null;
 	public BlockRoadwaystair(ElementsAkidecorMod instance) {
-		super(instance, 12);
+		super(instance, 16);
 	}
 
 	@Override

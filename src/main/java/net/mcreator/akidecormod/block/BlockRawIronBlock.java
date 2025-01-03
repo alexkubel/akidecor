@@ -29,7 +29,7 @@ public class BlockRawIronBlock extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:rawironblock")
 	public static final Block block = null;
 	public BlockRawIronBlock(ElementsAkidecorMod instance) {
-		super(instance, 190);
+		super(instance, 213);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockAndesiteBallastSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:andesite_ballast_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockAndesiteBallastSlab(ElementsAkidecorMod instance) {
-		super(instance, 316);
+		super(instance, 167);
 	}
 
 	@Override

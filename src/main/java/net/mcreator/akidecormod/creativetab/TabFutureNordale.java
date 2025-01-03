@@ -13,7 +13,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class TabFutureNordale extends ElementsAkidecorMod.ModElement {
 	public TabFutureNordale(ElementsAkidecorMod instance) {
-		super(instance, 266);
+		super(instance, 293);
 	}
 
 	@Override

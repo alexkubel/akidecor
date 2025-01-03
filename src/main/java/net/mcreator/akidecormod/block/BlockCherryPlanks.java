@@ -22,7 +22,7 @@ public class BlockCherryPlanks extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cherryplanks")
 	public static final Block block = null;
 	public BlockCherryPlanks(ElementsAkidecorMod instance) {
-		super(instance, 179);
+		super(instance, 202);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemCarFrame extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:carframe")
 	public static final Item block = null;
 	public ItemCarFrame(ElementsAkidecorMod instance) {
-		super(instance, 242);
+		super(instance, 268);
 	}
 
 	@Override

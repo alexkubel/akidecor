@@ -27,7 +27,7 @@ public class BlockVerticalBrickWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:verticalbrickwall")
 	public static final Block block = null;
 	public BlockVerticalBrickWall(ElementsAkidecorMod instance) {
-		super(instance, 48);
+		super(instance, 52);
 	}
 
 	@Override

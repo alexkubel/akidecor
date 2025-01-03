@@ -37,7 +37,7 @@ public class BlockGratestoneSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:gratestoneslab_double")
 	public static final Block block_slab_double = null;
 	public BlockGratestoneSlab(ElementsAkidecorMod instance) {
-		super(instance, 31);
+		super(instance, 35);
 	}
 
 	@Override

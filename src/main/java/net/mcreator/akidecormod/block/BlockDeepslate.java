@@ -34,7 +34,7 @@ public class BlockDeepslate extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslate")
 	public static final Block block = null;
 	public BlockDeepslate(ElementsAkidecorMod instance) {
-		super(instance, 172);
+		super(instance, 195);
 	}
 
 	@Override

@@ -3,6 +3,6 @@
   "textures": {
     "all": "akidecor:blocks/calcite",
     "particle": "akidecor:blocks/calcite",
-    "0": "akidecor:blocks/brick"
+    "0": "akidecor:blocks/calcite"
   }
 }

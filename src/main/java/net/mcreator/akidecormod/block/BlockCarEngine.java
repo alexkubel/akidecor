@@ -22,7 +22,7 @@ public class BlockCarEngine extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:carengine")
 	public static final Block block = null;
 	public BlockCarEngine(ElementsAkidecorMod instance) {
-		super(instance, 252);
+		super(instance, 278);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemSeaside extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:seaside")
 	public static final Item block = null;
 	public ItemSeaside(ElementsAkidecorMod instance) {
-		super(instance, 157);
+		super(instance, 181);
 	}
 
 	@Override

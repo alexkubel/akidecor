@@ -13,7 +13,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class TabAkimodMisc extends ElementsAkidecorMod.ModElement {
 	public TabAkimodMisc(ElementsAkidecorMod instance) {
-		super(instance, 304);
+		super(instance, 331);
 	}
 
 	@Override

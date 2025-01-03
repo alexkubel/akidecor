@@ -22,7 +22,7 @@ public class BlockCalcite extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:calcite")
 	public static final Block block = null;
 	public BlockCalcite(ElementsAkidecorMod instance) {
-		super(instance, 191);
+		super(instance, 214);
 	}
 
 	@Override

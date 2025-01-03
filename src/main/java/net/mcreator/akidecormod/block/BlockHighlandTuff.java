@@ -22,7 +22,7 @@ public class BlockHighlandTuff extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:highland_tuff")
 	public static final Block block = null;
 	public BlockHighlandTuff(ElementsAkidecorMod instance) {
-		super(instance, 106);
+		super(instance, 111);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class BlockCalciteWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:calcitewall")
 	public static final Block block = null;
 	public BlockCalciteWall(ElementsAkidecorMod instance) {
-		super(instance, 193);
+		super(instance, 216);
 	}
 
 	@Override

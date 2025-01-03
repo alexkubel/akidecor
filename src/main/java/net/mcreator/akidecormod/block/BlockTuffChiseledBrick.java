@@ -22,7 +22,7 @@ public class BlockTuffChiseledBrick extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tuffchiseledbrick")
 	public static final Block block = null;
 	public BlockTuffChiseledBrick(ElementsAkidecorMod instance) {
-		super(instance, 230);
+		super(instance, 253);
 	}
 
 	@Override

@@ -29,7 +29,7 @@ public class ItemNickelSteelToolSword extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nickelsteeltoolsword")
 	public static final Item block = null;
 	public ItemNickelSteelToolSword(ElementsAkidecorMod instance) {
-		super(instance, 254);
+		super(instance, 280);
 	}
 
 	@Override

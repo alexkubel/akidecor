@@ -13,7 +13,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class TabAkiIndustryItems extends ElementsAkidecorMod.ModElement {
 	public TabAkiIndustryItems(ElementsAkidecorMod instance) {
-		super(instance, 275);
+		super(instance, 302);
 	}
 
 	@Override

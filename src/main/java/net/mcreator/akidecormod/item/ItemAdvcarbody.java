@@ -20,7 +20,7 @@ public class ItemAdvcarbody extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:advcarbody")
 	public static final Item block = null;
 	public ItemAdvcarbody(ElementsAkidecorMod instance) {
-		super(instance, 245);
+		super(instance, 271);
 	}
 
 	@Override

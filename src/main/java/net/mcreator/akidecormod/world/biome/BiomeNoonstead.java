@@ -24,7 +24,7 @@ public class BiomeNoonstead extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:noonstead")
 	public static final BiomeGenCustom biome = null;
 	public BiomeNoonstead(ElementsAkidecorMod instance) {
-		super(instance, 293);
+		super(instance, 320);
 	}
 
 	@Override

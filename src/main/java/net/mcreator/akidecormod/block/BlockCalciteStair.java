@@ -24,7 +24,7 @@ public class BlockCalciteStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:calcitestair")
 	public static final Block block = null;
 	public BlockCalciteStair(ElementsAkidecorMod instance) {
-		super(instance, 194);
+		super(instance, 217);
 	}
 
 	@Override

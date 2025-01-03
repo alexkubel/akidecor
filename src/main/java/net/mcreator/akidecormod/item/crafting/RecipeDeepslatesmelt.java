@@ -13,7 +13,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class RecipeDeepslatesmelt extends ElementsAkidecorMod.ModElement {
 	public RecipeDeepslatesmelt(ElementsAkidecorMod instance) {
-		super(instance, 265);
+		super(instance, 292);
 	}
 
 	@Override

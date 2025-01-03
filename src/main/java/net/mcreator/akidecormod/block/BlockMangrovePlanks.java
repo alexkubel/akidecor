@@ -22,7 +22,7 @@ public class BlockMangrovePlanks extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mangroveplanks")
 	public static final Block block = null;
 	public BlockMangrovePlanks(ElementsAkidecorMod instance) {
-		super(instance, 197);
+		super(instance, 220);
 	}
 
 	@Override

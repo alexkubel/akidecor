@@ -34,7 +34,7 @@ public class BlockGratestoneBrickThiccWall extends ElementsAkidecorMod.ModElemen
 	@GameRegistry.ObjectHolder("akidecor:gratestonebrickthiccwall")
 	public static final Block block = null;
 	public BlockGratestoneBrickThiccWall(ElementsAkidecorMod instance) {
-		super(instance, 67);
+		super(instance, 71);
 	}
 
 	@Override

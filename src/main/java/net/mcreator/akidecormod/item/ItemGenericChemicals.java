@@ -30,7 +30,7 @@ public class ItemGenericChemicals extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:generic_chemicals")
 	public static final Item block = null;
 	public ItemGenericChemicals(ElementsAkidecorMod instance) {
-		super(instance, 236);
+		super(instance, 262);
 	}
 
 	@Override

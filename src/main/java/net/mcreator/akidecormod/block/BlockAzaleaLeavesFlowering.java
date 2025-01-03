@@ -30,7 +30,7 @@ public class BlockAzaleaLeavesFlowering extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:azalealeavesflowering")
 	public static final Block block = null;
 	public BlockAzaleaLeavesFlowering(ElementsAkidecorMod instance) {
-		super(instance, 210);
+		super(instance, 233);
 	}
 
 	@Override

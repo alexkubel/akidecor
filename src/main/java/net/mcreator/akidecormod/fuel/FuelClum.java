@@ -9,7 +9,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class FuelClum extends ElementsAkidecorMod.ModElement {
 	public FuelClum(ElementsAkidecorMod instance) {
-		super(instance, 273);
+		super(instance, 300);
 	}
 
 	@Override

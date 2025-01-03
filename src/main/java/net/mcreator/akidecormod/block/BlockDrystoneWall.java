@@ -26,7 +26,7 @@ public class BlockDrystoneWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:drystone_wall")
 	public static final Block block = null;
 	public BlockDrystoneWall(ElementsAkidecorMod instance) {
-		super(instance, 84);
+		super(instance, 88);
 	}
 
 	@Override

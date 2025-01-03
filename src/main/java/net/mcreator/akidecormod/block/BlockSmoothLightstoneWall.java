@@ -27,7 +27,7 @@ public class BlockSmoothLightstoneWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:smoothlightstonewall")
 	public static final Block block = null;
 	public BlockSmoothLightstoneWall(ElementsAkidecorMod instance) {
-		super(instance, 57);
+		super(instance, 61);
 	}
 
 	@Override

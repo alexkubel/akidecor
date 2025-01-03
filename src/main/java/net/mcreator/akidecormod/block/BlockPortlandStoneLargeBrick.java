@@ -22,7 +22,7 @@ public class BlockPortlandStoneLargeBrick extends ElementsAkidecorMod.ModElement
 	@GameRegistry.ObjectHolder("akidecor:portland_stone_large_brick")
 	public static final Block block = null;
 	public BlockPortlandStoneLargeBrick(ElementsAkidecorMod instance) {
-		super(instance, 132);
+		super(instance, 134);
 	}
 
 	@Override

@@ -34,7 +34,7 @@ public class BlockDeepslateThiccWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatethiccwall")
 	public static final Block block = null;
 	public BlockDeepslateThiccWall(ElementsAkidecorMod instance) {
-		super(instance, 167);
+		super(instance, 190);
 	}
 
 	@Override

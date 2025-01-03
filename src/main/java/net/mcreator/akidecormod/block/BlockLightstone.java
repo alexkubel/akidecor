@@ -22,7 +22,7 @@ public class BlockLightstone extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:lightstone")
 	public static final Block block = null;
 	public BlockLightstone(ElementsAkidecorMod instance) {
-		super(instance, 58);
+		super(instance, 62);
 	}
 
 	@Override

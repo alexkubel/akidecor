@@ -20,7 +20,7 @@ public class ItemDailyLife extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:dailylife")
 	public static final Item block = null;
 	public ItemDailyLife(ElementsAkidecorMod instance) {
-		super(instance, 155);
+		super(instance, 179);
 	}
 
 	@Override

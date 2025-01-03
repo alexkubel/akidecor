@@ -22,7 +22,7 @@ public class BlockCopperCutOxidised extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:coppercutoxidised")
 	public static final Block block = null;
 	public BlockCopperCutOxidised(ElementsAkidecorMod instance) {
-		super(instance, 217);
+		super(instance, 240);
 	}
 
 	@Override

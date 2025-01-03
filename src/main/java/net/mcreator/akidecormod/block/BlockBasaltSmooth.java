@@ -22,7 +22,7 @@ public class BlockBasaltSmooth extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:basaltsmooth")
 	public static final Block block = null;
 	public BlockBasaltSmooth(ElementsAkidecorMod instance) {
-		super(instance, 231);
+		super(instance, 254);
 	}
 
 	@Override

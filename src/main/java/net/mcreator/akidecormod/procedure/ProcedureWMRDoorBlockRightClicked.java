@@ -16,7 +16,7 @@ import java.util.Map;
 @ElementsAkidecorMod.ModElement.Tag
 public class ProcedureWMRDoorBlockRightClicked extends ElementsAkidecorMod.ModElement {
 	public ProcedureWMRDoorBlockRightClicked(ElementsAkidecorMod instance) {
-		super(instance, 269);
+		super(instance, 296);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

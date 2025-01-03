@@ -33,7 +33,7 @@ public class BlockWMRDoorOpen extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:wmrdooropen")
 	public static final Block block = null;
 	public BlockWMRDoorOpen(ElementsAkidecorMod instance) {
-		super(instance, 270);
+		super(instance, 297);
 	}
 
 	@Override

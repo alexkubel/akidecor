@@ -26,7 +26,7 @@ public class BlockBlackenedBrickWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:blackened_brick_wall")
 	public static final Block block = null;
 	public BlockBlackenedBrickWall(ElementsAkidecorMod instance) {
-		super(instance, 97);
+		super(instance, 101);
 	}
 
 	@Override

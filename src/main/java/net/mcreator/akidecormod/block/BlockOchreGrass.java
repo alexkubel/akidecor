@@ -31,7 +31,7 @@ public class BlockOchreGrass extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:ochregrass")
 	public static final Block block = null;
 	public BlockOchreGrass(ElementsAkidecorMod instance) {
-		super(instance, 52);
+		super(instance, 56);
 	}
 
 	@Override

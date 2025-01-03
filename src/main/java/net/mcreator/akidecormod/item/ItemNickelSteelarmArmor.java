@@ -28,7 +28,7 @@ public class ItemNickelSteelarmArmor extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nickelsteelarmarmorboots")
 	public static final Item boots = null;
 	public ItemNickelSteelarmArmor(ElementsAkidecorMod instance) {
-		super(instance, 253);
+		super(instance, 279);
 	}
 
 	@Override

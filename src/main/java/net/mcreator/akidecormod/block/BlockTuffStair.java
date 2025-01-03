@@ -24,7 +24,7 @@ public class BlockTuffStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tuffstair")
 	public static final Block block = null;
 	public BlockTuffStair(ElementsAkidecorMod instance) {
-		super(instance, 219);
+		super(instance, 242);
 	}
 
 	@Override

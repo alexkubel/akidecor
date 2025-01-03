@@ -20,7 +20,7 @@ public class ItemCarFinished extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:carfinished")
 	public static final Item block = null;
 	public ItemCarFinished(ElementsAkidecorMod instance) {
-		super(instance, 247);
+		super(instance, 273);
 	}
 
 	@Override

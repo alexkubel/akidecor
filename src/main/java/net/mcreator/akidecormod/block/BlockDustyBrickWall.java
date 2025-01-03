@@ -27,7 +27,7 @@ public class BlockDustyBrickWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:dustybrickwall")
 	public static final Block block = null;
 	public BlockDustyBrickWall(ElementsAkidecorMod instance) {
-		super(instance, 9);
+		super(instance, 13);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class BlockBlackenedBrickLargeStair extends ElementsAkidecorMod.ModElemen
 	@GameRegistry.ObjectHolder("akidecor:blackened_brick_large_stair")
 	public static final Block block = null;
 	public BlockBlackenedBrickLargeStair(ElementsAkidecorMod instance) {
-		super(instance, 112);
+		super(instance, 2);
 	}
 
 	@Override

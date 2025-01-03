@@ -31,7 +31,7 @@ public class BlockCherryLogStripped extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cherrylogstripped")
 	public static final Block block = null;
 	public BlockCherryLogStripped(ElementsAkidecorMod instance) {
-		super(instance, 178);
+		super(instance, 201);
 	}
 
 	@Override

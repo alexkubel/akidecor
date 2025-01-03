@@ -37,7 +37,7 @@ public class BlockRoadwayslab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:roadwayslab_double")
 	public static final Block block_slab_double = null;
 	public BlockRoadwayslab(ElementsAkidecorMod instance) {
-		super(instance, 13);
+		super(instance, 17);
 	}
 
 	@Override

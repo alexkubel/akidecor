@@ -22,7 +22,7 @@ public class BlockWhitestoneTuffBrick extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:whitestone_tuff_brick")
 	public static final Block block = null;
 	public BlockWhitestoneTuffBrick(ElementsAkidecorMod instance) {
-		super(instance, 310);
+		super(instance, 161);
 	}
 
 	@Override

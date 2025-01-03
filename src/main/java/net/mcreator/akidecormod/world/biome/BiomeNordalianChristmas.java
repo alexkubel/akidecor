@@ -21,7 +21,7 @@ public class BiomeNordalianChristmas extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nordalian_christmas")
 	public static final BiomeGenCustom biome = null;
 	public BiomeNordalianChristmas(ElementsAkidecorMod instance) {
-		super(instance, 302);
+		super(instance, 329);
 	}
 
 	@Override

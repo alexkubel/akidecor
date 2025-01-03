@@ -37,7 +37,7 @@ public class BlockSootedBrickSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:sooted_brick_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockSootedBrickSlab(ElementsAkidecorMod instance) {
-		super(instance, 91);
+		super(instance, 95);
 	}
 
 	@Override

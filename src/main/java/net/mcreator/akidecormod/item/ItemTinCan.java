@@ -20,7 +20,7 @@ public class ItemTinCan extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tin_can")
 	public static final Item block = null;
 	public ItemTinCan(ElementsAkidecorMod instance) {
-		super(instance, 259);
+		super(instance, 285);
 	}
 
 	@Override

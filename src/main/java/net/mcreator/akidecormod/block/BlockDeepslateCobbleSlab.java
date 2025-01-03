@@ -37,7 +37,7 @@ public class BlockDeepslateCobbleSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatecobbleslab_double")
 	public static final Block block_slab_double = null;
 	public BlockDeepslateCobbleSlab(ElementsAkidecorMod instance) {
-		super(instance, 175);
+		super(instance, 198);
 	}
 
 	@Override

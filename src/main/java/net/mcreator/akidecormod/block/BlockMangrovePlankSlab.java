@@ -37,7 +37,7 @@ public class BlockMangrovePlankSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mangroveplankslab_double")
 	public static final Block block_slab_double = null;
 	public BlockMangrovePlankSlab(ElementsAkidecorMod instance) {
-		super(instance, 199);
+		super(instance, 222);
 	}
 
 	@Override

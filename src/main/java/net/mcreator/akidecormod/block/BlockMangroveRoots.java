@@ -24,7 +24,7 @@ public class BlockMangroveRoots extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mangroveroots")
 	public static final Block block = null;
 	public BlockMangroveRoots(ElementsAkidecorMod instance) {
-		super(instance, 233);
+		super(instance, 256);
 	}
 
 	@Override

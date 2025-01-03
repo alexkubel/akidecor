@@ -15,7 +15,7 @@ import java.util.Map;
 @ElementsAkidecorMod.ModElement.Tag
 public class ProcedureGenericChemicalsRightClickedOnBlock extends ElementsAkidecorMod.ModElement {
 	public ProcedureGenericChemicalsRightClickedOnBlock(ElementsAkidecorMod instance) {
-		super(instance, 303);
+		super(instance, 330);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

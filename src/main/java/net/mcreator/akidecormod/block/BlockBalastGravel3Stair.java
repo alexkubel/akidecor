@@ -24,7 +24,7 @@ public class BlockBalastGravel3Stair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:balastgravel3stair")
 	public static final Block block = null;
 	public BlockBalastGravel3Stair(ElementsAkidecorMod instance) {
-		super(instance, 70);
+		super(instance, 74);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockGraniteBallastSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:granite_ballast_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockGraniteBallastSlab(ElementsAkidecorMod instance) {
-		super(instance, 320);
+		super(instance, 171);
 	}
 
 	@Override

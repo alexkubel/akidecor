@@ -26,7 +26,7 @@ public class BlockPortlandStoneWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:portland_stone_wall")
 	public static final Block block = null;
 	public BlockPortlandStoneWall(ElementsAkidecorMod instance) {
-		super(instance, 135);
+		super(instance, 137);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockCherryPlankSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cherryplankslab_double")
 	public static final Block block_slab_double = null;
 	public BlockCherryPlankSlab(ElementsAkidecorMod instance) {
-		super(instance, 181);
+		super(instance, 204);
 	}
 
 	@Override

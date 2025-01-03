@@ -24,7 +24,7 @@ public class BlockCherryPlankFence extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cherryplankfence")
 	public static final Block block = null;
 	public BlockCherryPlankFence(ElementsAkidecorMod instance) {
-		super(instance, 164);
+		super(instance, 187);
 	}
 
 	@Override

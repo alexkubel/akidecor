@@ -28,7 +28,7 @@ public class BlockStrippedMangroveWood extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:strippedmangrovewood")
 	public static final Block block = null;
 	public BlockStrippedMangroveWood(ElementsAkidecorMod instance) {
-		super(instance, 201);
+		super(instance, 224);
 	}
 
 	@Override

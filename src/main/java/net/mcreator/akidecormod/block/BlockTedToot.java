@@ -33,7 +33,7 @@ public class BlockTedToot extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tedtoot")
 	public static final Block block = null;
 	public BlockTedToot(ElementsAkidecorMod instance) {
-		super(instance, 163);
+		super(instance, 290);
 	}
 
 	@Override

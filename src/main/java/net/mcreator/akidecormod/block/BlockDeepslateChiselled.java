@@ -22,7 +22,7 @@ public class BlockDeepslateChiselled extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatechiselled")
 	public static final Block block = null;
 	public BlockDeepslateChiselled(ElementsAkidecorMod instance) {
-		super(instance, 182);
+		super(instance, 205);
 	}
 
 	@Override

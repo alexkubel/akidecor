@@ -23,7 +23,7 @@ public class BlockWhitestoneTuffStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:whitestone_tuff_stair")
 	public static final Block block = null;
 	public BlockWhitestoneTuffStair(ElementsAkidecorMod instance) {
-		super(instance, 305);
+		super(instance, 156);
 	}
 
 	@Override

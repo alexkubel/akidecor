@@ -27,7 +27,7 @@ public class BlockFlintwall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:flintwall")
 	public static final Block block = null;
 	public BlockFlintwall(ElementsAkidecorMod instance) {
-		super(instance, 28);
+		super(instance, 32);
 	}
 
 	@Override

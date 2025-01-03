@@ -20,7 +20,7 @@ public class ItemCowToken extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cowtoken")
 	public static final Item block = null;
 	public ItemCowToken(ElementsAkidecorMod instance) {
-		super(instance, 237);
+		super(instance, 263);
 	}
 
 	@Override

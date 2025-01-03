@@ -28,7 +28,7 @@ public class BlockStrippedMangroveLog extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:strippedmangrovelog")
 	public static final Block block = null;
 	public BlockStrippedMangroveLog(ElementsAkidecorMod instance) {
-		super(instance, 196);
+		super(instance, 219);
 	}
 
 	@Override

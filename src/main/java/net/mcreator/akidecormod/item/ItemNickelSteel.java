@@ -20,7 +20,7 @@ public class ItemNickelSteel extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nickelsteel")
 	public static final Item block = null;
 	public ItemNickelSteel(ElementsAkidecorMod instance) {
-		super(instance, 240);
+		super(instance, 266);
 	}
 
 	@Override

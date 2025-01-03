@@ -27,7 +27,7 @@ public class BlockJappaBrickWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:jappabrickwall")
 	public static final Block block = null;
 	public BlockJappaBrickWall(ElementsAkidecorMod instance) {
-		super(instance, 171);
+		super(instance, 194);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockHighlandTuffBallastSlab extends ElementsAkidecorMod.ModElement
 	@GameRegistry.ObjectHolder("akidecor:highland_tuff_ballast_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockHighlandTuffBallastSlab(ElementsAkidecorMod instance) {
-		super(instance, 143);
+		super(instance, 145);
 	}
 
 	@Override

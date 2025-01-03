@@ -22,7 +22,7 @@ public class BlockCopperChiseledOxidised extends ElementsAkidecorMod.ModElement 
 	@GameRegistry.ObjectHolder("akidecor:copperchiseledoxidised")
 	public static final Block block = null;
 	public BlockCopperChiseledOxidised(ElementsAkidecorMod instance) {
-		super(instance, 235);
+		super(instance, 258);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockSmoothLightstoneSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:smoothlightstoneslab_double")
 	public static final Block block_slab_double = null;
 	public BlockSmoothLightstoneSlab(ElementsAkidecorMod instance) {
-		super(instance, 56);
+		super(instance, 60);
 	}
 
 	@Override

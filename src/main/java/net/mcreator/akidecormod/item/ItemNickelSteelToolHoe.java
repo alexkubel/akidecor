@@ -24,7 +24,7 @@ public class ItemNickelSteelToolHoe extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nickelsteeltoolhoe")
 	public static final Item block = null;
 	public ItemNickelSteelToolHoe(ElementsAkidecorMod instance) {
-		super(instance, 258);
+		super(instance, 284);
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class ItemDistantMemory extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:distantmemory")
 	public static final Item block = null;
 	public ItemDistantMemory(ElementsAkidecorMod instance) {
-		super(instance, 161);
+		super(instance, 185);
 	}
 
 	@Override

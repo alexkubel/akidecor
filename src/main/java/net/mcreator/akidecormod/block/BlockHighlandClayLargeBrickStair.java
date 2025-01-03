@@ -23,7 +23,7 @@ public class BlockHighlandClayLargeBrickStair extends ElementsAkidecorMod.ModEle
 	@GameRegistry.ObjectHolder("akidecor:highland_clay_large_brick_stair")
 	public static final Block block = null;
 	public BlockHighlandClayLargeBrickStair(ElementsAkidecorMod instance) {
-		super(instance, 122);
+		super(instance, 124);
 	}
 
 	@Override

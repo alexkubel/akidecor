@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsAkidecorMod.ModElement.Tag
 public class ProcedureGrassUpdateTick extends ElementsAkidecorMod.ModElement {
 	public ProcedureGrassUpdateTick(ElementsAkidecorMod instance) {
-		super(instance, 268);
+		super(instance, 295);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

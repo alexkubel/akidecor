@@ -26,7 +26,7 @@ public class BlockWhitestoneTuffWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:whitestone_tuff_wall")
 	public static final Block block = null;
 	public BlockWhitestoneTuffWall(ElementsAkidecorMod instance) {
-		super(instance, 306);
+		super(instance, 157);
 	}
 
 	@Override

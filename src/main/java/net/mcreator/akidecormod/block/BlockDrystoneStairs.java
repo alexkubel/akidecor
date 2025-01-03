@@ -26,7 +26,7 @@ public class BlockDrystoneStairs extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:drystone_stairs")
 	public static final Block block = null;
 	public BlockDrystoneStairs(ElementsAkidecorMod instance) {
-		super(instance, 82);
+		super(instance, 86);
 	}
 
 	@Override

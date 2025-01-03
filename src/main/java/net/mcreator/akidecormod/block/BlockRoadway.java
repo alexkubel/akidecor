@@ -22,7 +22,7 @@ public class BlockRoadway extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:roadway")
 	public static final Block block = null;
 	public BlockRoadway(ElementsAkidecorMod instance) {
-		super(instance, 11);
+		super(instance, 15);
 	}
 
 	@Override

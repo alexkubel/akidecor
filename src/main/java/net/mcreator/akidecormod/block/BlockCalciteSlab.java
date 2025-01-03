@@ -37,7 +37,7 @@ public class BlockCalciteSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:calciteslab_double")
 	public static final Block block_slab_double = null;
 	public BlockCalciteSlab(ElementsAkidecorMod instance) {
-		super(instance, 192);
+		super(instance, 215);
 	}
 
 	@Override

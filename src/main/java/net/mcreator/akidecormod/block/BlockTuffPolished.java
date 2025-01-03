@@ -22,7 +22,7 @@ public class BlockTuffPolished extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tuffpolished")
 	public static final Block block = null;
 	public BlockTuffPolished(ElementsAkidecorMod instance) {
-		super(instance, 226);
+		super(instance, 249);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class BlockLightstoneStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:lightstonestair")
 	public static final Block block = null;
 	public BlockLightstoneStair(ElementsAkidecorMod instance) {
-		super(instance, 59);
+		super(instance, 63);
 	}
 
 	@Override

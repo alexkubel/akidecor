@@ -26,7 +26,7 @@ public class BlockSmoothHighlandTuffWall extends ElementsAkidecorMod.ModElement 
 	@GameRegistry.ObjectHolder("akidecor:smooth_highland_tuff_wall")
 	public static final Block block = null;
 	public BlockSmoothHighlandTuffWall(ElementsAkidecorMod instance) {
-		super(instance, 147);
+		super(instance, 149);
 	}
 
 	@Override

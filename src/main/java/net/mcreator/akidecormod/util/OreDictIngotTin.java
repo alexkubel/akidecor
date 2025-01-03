@@ -8,7 +8,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class OreDictIngotTin extends ElementsAkidecorMod.ModElement {
 	public OreDictIngotTin(ElementsAkidecorMod instance) {
-		super(instance, 277);
+		super(instance, 304);
 	}
 
 	@Override

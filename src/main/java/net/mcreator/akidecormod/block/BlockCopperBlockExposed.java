@@ -22,7 +22,7 @@ public class BlockCopperBlockExposed extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:copperblockexposed")
 	public static final Block block = null;
 	public BlockCopperBlockExposed(ElementsAkidecorMod instance) {
-		super(instance, 212);
+		super(instance, 235);
 	}
 
 	@Override

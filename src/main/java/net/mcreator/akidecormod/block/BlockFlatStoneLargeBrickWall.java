@@ -27,7 +27,7 @@ public class BlockFlatStoneLargeBrickWall extends ElementsAkidecorMod.ModElement
 	@GameRegistry.ObjectHolder("akidecor:flatstonelargebrickwall")
 	public static final Block block = null;
 	public BlockFlatStoneLargeBrickWall(ElementsAkidecorMod instance) {
-		super(instance, 17);
+		super(instance, 21);
 	}
 
 	@Override

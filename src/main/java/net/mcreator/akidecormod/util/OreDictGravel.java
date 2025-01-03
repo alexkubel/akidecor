@@ -15,7 +15,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class OreDictGravel extends ElementsAkidecorMod.ModElement {
 	public OreDictGravel(ElementsAkidecorMod instance) {
-		super(instance, 294);
+		super(instance, 321);
 	}
 
 	@Override

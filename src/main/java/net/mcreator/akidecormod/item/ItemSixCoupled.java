@@ -19,7 +19,7 @@ public class ItemSixCoupled extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:sixcoupled")
 	public static final Item block = null;
 	public ItemSixCoupled(ElementsAkidecorMod instance) {
-		super(instance, 263);
+		super(instance, 289);
 	}
 
 	@Override

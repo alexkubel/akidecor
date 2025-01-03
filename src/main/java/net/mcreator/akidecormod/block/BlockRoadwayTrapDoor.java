@@ -24,7 +24,7 @@ public class BlockRoadwayTrapDoor extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:roadwaytrapdoor")
 	public static final Block block = null;
 	public BlockRoadwayTrapDoor(ElementsAkidecorMod instance) {
-		super(instance, 72);
+		super(instance, 76);
 	}
 
 	@Override

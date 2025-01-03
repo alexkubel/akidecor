@@ -20,7 +20,7 @@ public class ItemJourney extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:journey")
 	public static final Item block = null;
 	public ItemJourney(ElementsAkidecorMod instance) {
-		super(instance, 162);
+		super(instance, 186);
 	}
 
 	@Override

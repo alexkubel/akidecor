@@ -24,7 +24,7 @@ public class BlockFlintStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:flintstair")
 	public static final Block block = null;
 	public BlockFlintStair(ElementsAkidecorMod instance) {
-		super(instance, 26);
+		super(instance, 30);
 	}
 
 	@Override

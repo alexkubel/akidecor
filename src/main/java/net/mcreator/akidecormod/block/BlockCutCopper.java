@@ -22,7 +22,7 @@ public class BlockCutCopper extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cutcopper")
 	public static final Block block = null;
 	public BlockCutCopper(ElementsAkidecorMod instance) {
-		super(instance, 214);
+		super(instance, 237);
 	}
 
 	@Override

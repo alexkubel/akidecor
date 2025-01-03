@@ -12,7 +12,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class OreDictIngotSteel extends ElementsAkidecorMod.ModElement {
 	public OreDictIngotSteel(ElementsAkidecorMod instance) {
-		super(instance, 279);
+		super(instance, 306);
 	}
 
 	@Override

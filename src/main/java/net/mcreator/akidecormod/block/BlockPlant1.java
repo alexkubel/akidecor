@@ -31,7 +31,7 @@ public class BlockPlant1 extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:plant1")
 	public static final Block block = null;
 	public BlockPlant1(ElementsAkidecorMod instance) {
-		super(instance, 261);
+		super(instance, 287);
 	}
 
 	@Override

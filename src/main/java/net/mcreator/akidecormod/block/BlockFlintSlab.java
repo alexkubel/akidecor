@@ -37,7 +37,7 @@ public class BlockFlintSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:flintslab_double")
 	public static final Block block_slab_double = null;
 	public BlockFlintSlab(ElementsAkidecorMod instance) {
-		super(instance, 27);
+		super(instance, 31);
 	}
 
 	@Override

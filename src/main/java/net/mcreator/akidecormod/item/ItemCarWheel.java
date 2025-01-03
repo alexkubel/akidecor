@@ -20,7 +20,7 @@ public class ItemCarWheel extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:carwheel")
 	public static final Item block = null;
 	public ItemCarWheel(ElementsAkidecorMod instance) {
-		super(instance, 241);
+		super(instance, 267);
 	}
 
 	@Override

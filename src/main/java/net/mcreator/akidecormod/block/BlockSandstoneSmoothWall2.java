@@ -27,7 +27,7 @@ public class BlockSandstoneSmoothWall2 extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:sandstonesmoothwall2")
 	public static final Block block = null;
 	public BlockSandstoneSmoothWall2(ElementsAkidecorMod instance) {
-		super(instance, 73);
+		super(instance, 77);
 	}
 
 	@Override

@@ -40,7 +40,7 @@ public class BlockMalk extends ElementsAkidecorMod.ModElement {
 	public static final Item item = null;
 	private Fluid fluid;
 	public BlockMalk(ElementsAkidecorMod instance) {
-		super(instance, 53);
+		super(instance, 57);
 		fluid = new Fluid("malk", new ResourceLocation("akidecor:blocks/milk"), new ResourceLocation("akidecor:blocks/brick3")).setLuminosity(0)
 				.setDensity(1000).setViscosity(1000).setGaseous(false);
 	}

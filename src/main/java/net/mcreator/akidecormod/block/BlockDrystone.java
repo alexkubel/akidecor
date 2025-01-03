@@ -22,7 +22,7 @@ public class BlockDrystone extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:drystone")
 	public static final Block block = null;
 	public BlockDrystone(ElementsAkidecorMod instance) {
-		super(instance, 77);
+		super(instance, 81);
 	}
 
 	@Override

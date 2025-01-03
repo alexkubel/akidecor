@@ -23,7 +23,7 @@ public class BlockDeepslatePolished extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatepolished")
 	public static final Block block = null;
 	public BlockDeepslatePolished(ElementsAkidecorMod instance) {
-		super(instance, 183);
+		super(instance, 206);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockBalastgravel2slab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:balastgravel2slab_double")
 	public static final Block block_slab_double = null;
 	public BlockBalastgravel2slab(ElementsAkidecorMod instance) {
-		super(instance, 21);
+		super(instance, 25);
 	}
 
 	@Override

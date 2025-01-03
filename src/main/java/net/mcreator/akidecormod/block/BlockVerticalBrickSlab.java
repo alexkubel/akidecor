@@ -37,7 +37,7 @@ public class BlockVerticalBrickSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:verticalbrickslab_double")
 	public static final Block block_slab_double = null;
 	public BlockVerticalBrickSlab(ElementsAkidecorMod instance) {
-		super(instance, 47);
+		super(instance, 51);
 	}
 
 	@Override

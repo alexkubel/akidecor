@@ -20,7 +20,7 @@ public class ItemEtherialLife extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:etheriallife")
 	public static final Item block = null;
 	public ItemEtherialLife(ElementsAkidecorMod instance) {
-		super(instance, 158);
+		super(instance, 182);
 	}
 
 	@Override

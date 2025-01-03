@@ -20,7 +20,7 @@ public class ItemMobileSuitComponent extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mobile_suit_component")
 	public static final Item block = null;
 	public ItemMobileSuitComponent(ElementsAkidecorMod instance) {
-		super(instance, 249);
+		super(instance, 275);
 	}
 
 	@Override

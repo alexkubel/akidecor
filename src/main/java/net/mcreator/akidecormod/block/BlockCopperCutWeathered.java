@@ -22,7 +22,7 @@ public class BlockCopperCutWeathered extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:coppercutweathered")
 	public static final Block block = null;
 	public BlockCopperCutWeathered(ElementsAkidecorMod instance) {
-		super(instance, 216);
+		super(instance, 239);
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class BlockPinkHeather extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:pinkheather")
 	public static final Block block = null;
 	public BlockPinkHeather(ElementsAkidecorMod instance) {
-		super(instance, 62);
+		super(instance, 66);
 	}
 
 	@Override

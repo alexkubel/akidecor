@@ -37,7 +37,7 @@ public class BlockMidhurstLargeBrickSlab extends ElementsAkidecorMod.ModElement 
 	@GameRegistry.ObjectHolder("akidecor:midhurst_large_brick_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockMidhurstLargeBrickSlab(ElementsAkidecorMod instance) {
-		super(instance, 127);
+		super(instance, 129);
 	}
 
 	@Override

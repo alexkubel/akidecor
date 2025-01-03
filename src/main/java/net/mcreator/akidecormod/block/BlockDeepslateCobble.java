@@ -22,7 +22,7 @@ public class BlockDeepslateCobble extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatecobble")
 	public static final Block block = null;
 	public BlockDeepslateCobble(ElementsAkidecorMod instance) {
-		super(instance, 173);
+		super(instance, 196);
 	}
 
 	@Override

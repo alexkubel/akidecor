@@ -37,7 +37,7 @@ public class BlockWhitestoneTuffSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:whitestone_tuff_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockWhitestoneTuffSlab(ElementsAkidecorMod instance) {
-		super(instance, 153);
+		super(instance, 155);
 	}
 
 	@Override

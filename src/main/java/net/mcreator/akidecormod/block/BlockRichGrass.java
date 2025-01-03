@@ -33,7 +33,7 @@ public class BlockRichGrass extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:richgrass")
 	public static final Block block = null;
 	public BlockRichGrass(ElementsAkidecorMod instance) {
-		super(instance, 50);
+		super(instance, 54);
 	}
 
 	@Override

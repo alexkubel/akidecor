@@ -22,7 +22,7 @@ public class BlockBallastRough extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:ballastrough")
 	public static final Block block = null;
 	public BlockBallastRough(ElementsAkidecorMod instance) {
-		super(instance, 76);
+		super(instance, 80);
 	}
 
 	@Override

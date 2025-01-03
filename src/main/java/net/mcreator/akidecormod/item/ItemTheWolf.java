@@ -20,7 +20,7 @@ public class ItemTheWolf extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:thewolf")
 	public static final Item block = null;
 	public ItemTheWolf(ElementsAkidecorMod instance) {
-		super(instance, 154);
+		super(instance, 178);
 	}
 
 	@Override

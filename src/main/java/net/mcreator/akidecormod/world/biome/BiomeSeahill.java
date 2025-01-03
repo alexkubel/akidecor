@@ -17,7 +17,7 @@ public class BiomeSeahill extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:seahill")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSeahill(ElementsAkidecorMod instance) {
-		super(instance, 296);
+		super(instance, 323);
 	}
 
 	@Override

@@ -26,7 +26,7 @@ public class BlockHighlandTuffWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:highland_tuff_wall")
 	public static final Block block = null;
 	public BlockHighlandTuffWall(ElementsAkidecorMod instance) {
-		super(instance, 109);
+		super(instance, 114);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockStrippedCherryWood extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:strippedcherrywood")
 	public static final Block block = null;
 	public BlockStrippedCherryWood(ElementsAkidecorMod instance) {
-		super(instance, 203);
+		super(instance, 226);
 	}
 
 	@Override

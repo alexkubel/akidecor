@@ -37,7 +37,7 @@ public class BlockBlackenedBrickSlab extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:blackened_brick_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockBlackenedBrickSlab(ElementsAkidecorMod instance) {
-		super(instance, 96);
+		super(instance, 100);
 	}
 
 	@Override

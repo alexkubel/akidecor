@@ -37,7 +37,7 @@ public class BlockPortlandStoneSmallBrickSlab extends ElementsAkidecorMod.ModEle
 	@GameRegistry.ObjectHolder("akidecor:portland_stone_small_brick_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockPortlandStoneSmallBrickSlab(ElementsAkidecorMod instance) {
-		super(instance, 136);
+		super(instance, 138);
 	}
 
 	@Override

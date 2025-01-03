@@ -20,7 +20,7 @@ public class ItemTractionEngine extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:traction_engine")
 	public static final Item block = null;
 	public ItemTractionEngine(ElementsAkidecorMod instance) {
-		super(instance, 246);
+		super(instance, 272);
 	}
 
 	@Override

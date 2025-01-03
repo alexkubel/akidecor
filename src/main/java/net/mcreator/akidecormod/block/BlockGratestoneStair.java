@@ -24,7 +24,7 @@ public class BlockGratestoneStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:gratestonestair")
 	public static final Block block = null;
 	public BlockGratestoneStair(ElementsAkidecorMod instance) {
-		super(instance, 30);
+		super(instance, 34);
 	}
 
 	@Override

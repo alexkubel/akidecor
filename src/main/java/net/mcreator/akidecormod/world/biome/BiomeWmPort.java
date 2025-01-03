@@ -29,7 +29,7 @@ public class BiomeWmPort extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:wmport")
 	public static final BiomeGenCustom biome = null;
 	public BiomeWmPort(ElementsAkidecorMod instance) {
-		super(instance, 292);
+		super(instance, 319);
 	}
 
 	@Override

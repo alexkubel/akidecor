@@ -39,7 +39,7 @@ public class BlockYellowHeather extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:yellowheather")
 	public static final Block block = null;
 	public BlockYellowHeather(ElementsAkidecorMod instance) {
-		super(instance, 64);
+		super(instance, 68);
 	}
 
 	@Override

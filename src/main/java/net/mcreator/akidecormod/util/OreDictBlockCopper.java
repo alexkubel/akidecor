@@ -18,7 +18,7 @@ import net.mcreator.akidecormod.ElementsAkidecorMod;
 @ElementsAkidecorMod.ModElement.Tag
 public class OreDictBlockCopper extends ElementsAkidecorMod.ModElement {
 	public OreDictBlockCopper(ElementsAkidecorMod instance) {
-		super(instance, 272);
+		super(instance, 299);
 	}
 
 	@Override

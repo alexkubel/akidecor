@@ -20,7 +20,7 @@ public class ItemIngotBronze extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:ingotbronze")
 	public static final Item block = null;
 	public ItemIngotBronze(ElementsAkidecorMod instance) {
-		super(instance, 238);
+		super(instance, 264);
 	}
 
 	@Override

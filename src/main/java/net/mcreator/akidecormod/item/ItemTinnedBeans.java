@@ -21,7 +21,7 @@ public class ItemTinnedBeans extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:tinned_beans")
 	public static final Item block = null;
 	public ItemTinnedBeans(ElementsAkidecorMod instance) {
-		super(instance, 251);
+		super(instance, 277);
 	}
 
 	@Override

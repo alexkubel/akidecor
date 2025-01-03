@@ -24,7 +24,7 @@ public class BlockCherryPlankStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:cherryplankstair")
 	public static final Block block = null;
 	public BlockCherryPlankStair(ElementsAkidecorMod instance) {
-		super(instance, 180);
+		super(instance, 203);
 	}
 
 	@Override

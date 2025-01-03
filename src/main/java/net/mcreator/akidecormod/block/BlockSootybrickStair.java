@@ -23,7 +23,7 @@ public class BlockSootybrickStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:sootybrick_stair")
 	public static final Block block = null;
 	public BlockSootybrickStair(ElementsAkidecorMod instance) {
-		super(instance, 92);
+		super(instance, 96);
 	}
 
 	@Override

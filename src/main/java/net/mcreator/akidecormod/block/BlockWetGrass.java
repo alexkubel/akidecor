@@ -31,7 +31,7 @@ public class BlockWetGrass extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:wetgrass")
 	public static final Block block = null;
 	public BlockWetGrass(ElementsAkidecorMod instance) {
-		super(instance, 49);
+		super(instance, 53);
 	}
 
 	@Override

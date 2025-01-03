@@ -24,7 +24,7 @@ public class BlockMangroveFence extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mangrovefence")
 	public static final Block block = null;
 	public BlockMangroveFence(ElementsAkidecorMod instance) {
-		super(instance, 206);
+		super(instance, 229);
 	}
 
 	@Override

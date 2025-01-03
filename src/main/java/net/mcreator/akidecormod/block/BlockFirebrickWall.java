@@ -26,7 +26,7 @@ public class BlockFirebrickWall extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:firebrick_wall")
 	public static final Block block = null;
 	public BlockFirebrickWall(ElementsAkidecorMod instance) {
-		super(instance, 116);
+		super(instance, 118);
 	}
 
 	@Override

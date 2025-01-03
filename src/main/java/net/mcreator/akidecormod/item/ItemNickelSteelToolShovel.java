@@ -24,7 +24,7 @@ public class ItemNickelSteelToolShovel extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nickelsteeltoolshovel")
 	public static final Item block = null;
 	public ItemNickelSteelToolShovel(ElementsAkidecorMod instance) {
-		super(instance, 257);
+		super(instance, 283);
 	}
 
 	@Override

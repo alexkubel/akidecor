@@ -73,13 +73,13 @@ public class BlockCalciteThiccWall extends ElementsAkidecorMod.ModElement {
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(15.6875, 0, 16, 15.3125, 1, 15));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0.6875, 0, 1, 0.3125, 1, 0));
 				case NORTH :
 					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0.3125, 0, 0, 0.6875, 1, 1));
 				case EAST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 0.3125, 15, 1, 0.6875));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(1, 0, 0.3125, 0, 1, 0.6875));
 				case WEST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 15.6875, 1, 1, 15.3125));
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0.6875, 1, 1, 0.3125));
 			}
 		}
 

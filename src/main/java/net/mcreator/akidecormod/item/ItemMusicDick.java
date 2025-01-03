@@ -20,7 +20,7 @@ public class ItemMusicDick extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:musicdick")
 	public static final Item block = null;
 	public ItemMusicDick(ElementsAkidecorMod instance) {
-		super(instance, 159);
+		super(instance, 183);
 	}
 
 	@Override

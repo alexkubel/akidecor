@@ -20,7 +20,7 @@ public class ItemPianoConcerto extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:pianoconcerto")
 	public static final Item block = null;
 	public ItemPianoConcerto(ElementsAkidecorMod instance) {
-		super(instance, 160);
+		super(instance, 184);
 	}
 
 	@Override

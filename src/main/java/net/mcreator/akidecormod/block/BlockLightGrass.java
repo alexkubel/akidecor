@@ -26,7 +26,7 @@ public class BlockLightGrass extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:lightgrass")
 	public static final Block block = null;
 	public BlockLightGrass(ElementsAkidecorMod instance) {
-		super(instance, 51);
+		super(instance, 55);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class BlockWhitestoneTuffChiselled extends ElementsAkidecorMod.ModElement
 	@GameRegistry.ObjectHolder("akidecor:whitestone_tuff_chiselled")
 	public static final Block block = null;
 	public BlockWhitestoneTuffChiselled(ElementsAkidecorMod instance) {
-		super(instance, 307);
+		super(instance, 158);
 	}
 
 	@Override

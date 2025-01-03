@@ -22,7 +22,7 @@ public class BlockMudPacked extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:mudpacked")
 	public static final Block block = null;
 	public BlockMudPacked(ElementsAkidecorMod instance) {
-		super(instance, 185);
+		super(instance, 208);
 	}
 
 	@Override

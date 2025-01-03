@@ -22,7 +22,7 @@ public class BlockDeepslateTilesCracked extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatetilescracked")
 	public static final Block block = null;
 	public BlockDeepslateTilesCracked(ElementsAkidecorMod instance) {
-		super(instance, 208);
+		super(instance, 231);
 	}
 
 	@Override

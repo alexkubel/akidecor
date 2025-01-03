@@ -24,7 +24,7 @@ public class BlockDeepslateCobbleStair extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:deepslatecobblestair")
 	public static final Block block = null;
 	public BlockDeepslateCobbleStair(ElementsAkidecorMod instance) {
-		super(instance, 174);
+		super(instance, 197);
 	}
 
 	@Override

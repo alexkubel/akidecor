@@ -30,7 +30,7 @@ public class BiomeNordalianLowland extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:nordalianlowland")
 	public static final BiomeGenCustom biome = null;
 	public BiomeNordalianLowland(ElementsAkidecorMod instance) {
-		super(instance, 267);
+		super(instance, 294);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockSmoothMidhurstStone extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:smooth_midhurst_stone")
 	public static final Block block = null;
 	public BlockSmoothMidhurstStone(ElementsAkidecorMod instance) {
-		super(instance, 148);
+		super(instance, 150);
 	}
 
 	@Override

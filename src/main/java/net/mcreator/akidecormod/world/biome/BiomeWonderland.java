@@ -18,7 +18,7 @@ public class BiomeWonderland extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:wonderland")
 	public static final BiomeGenCustom biome = null;
 	public BiomeWonderland(ElementsAkidecorMod instance) {
-		super(instance, 295);
+		super(instance, 322);
 	}
 
 	@Override

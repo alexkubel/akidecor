@@ -22,7 +22,7 @@ public class BlockBrick5 extends ElementsAkidecorMod.ModElement {
 	@GameRegistry.ObjectHolder("akidecor:brick5")
 	public static final Block block = null;
 	public BlockBrick5(ElementsAkidecorMod instance) {
-		super(instance, 37);
+		super(instance, 41);
 	}
 
 	@Override
