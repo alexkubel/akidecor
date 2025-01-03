@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/bamboo_planks",
+    "particle": "akidecor:blocks/bamboo_planks"
+  }
+}

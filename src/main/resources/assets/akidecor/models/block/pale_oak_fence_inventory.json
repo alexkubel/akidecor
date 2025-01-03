@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "akidecor:blocks/pale_oak_planks",
+    "particle": "akidecor:blocks/pale_oak_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/bamboo_block_top",
+    "up": "akidecor:blocks/bamboo_block_top",
+    "north": "akidecor:blocks/bamboo_block",
+    "east": "akidecor:blocks/bamboo_block",
+    "south": "akidecor:blocks/bamboo_block",
+    "west": "akidecor:blocks/bamboo_block",
+    "particle": "akidecor:blocks/bamboo_block_top"
+  }
+}

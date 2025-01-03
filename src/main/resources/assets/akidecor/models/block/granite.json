@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/stone_granite",
+    "up": "akidecor:blocks/stone_granite",
+    "north": "akidecor:blocks/stone_granite",
+    "east": "akidecor:blocks/stone_granite",
+    "south": "akidecor:blocks/stone_granite",
+    "west": "akidecor:blocks/stone_granite",
+    "particle": "akidecor:blocks/stone_granite"
+  }
+}

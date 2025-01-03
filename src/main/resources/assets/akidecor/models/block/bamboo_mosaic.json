@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "akidecor:blocks/bamboo_mosaic",
+    "particle": "akidecor:blocks/bamboo_mosaic"
+  }
+}

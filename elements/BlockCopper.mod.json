@@ -24,10 +24,23 @@
       },
       {
         "value": "CUSTOM:CopperCutWeathered"
+      },
+      {
+        "value": "CUSTOM:CopperGrate"
+      },
+      {
+        "value": "CUSTOM:CopperGrateWeathered"
+      },
+      {
+        "value": "CUSTOM:CopperGrateOxidised"
+      },
+      {
+        "value": "CUSTOM:CopperGrateExposed"
       }
     ],
     "blocks": [],
     "functions": [],
+    "entities": [],
     "name": "blockCopper",
     "namespace": "forge"
   }

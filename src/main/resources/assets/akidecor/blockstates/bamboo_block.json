@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "akidecor:bamboo_block"
+    },
+    "facing=south": {
+      "model": "akidecor:bamboo_block"
+    },
+    "facing=north": {
+      "model": "akidecor:bamboo_block"
+    },
+    "facing=east": {
+      "model": "akidecor:bamboo_block",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "akidecor:bamboo_block",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "akidecor:bamboo_block",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "akidecor:bamboo_block",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

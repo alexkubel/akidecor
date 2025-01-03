@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "akidecor:blocks/pale_oak_planks",
+    "top": "akidecor:blocks/pale_oak_planks",
+    "side": "akidecor:blocks/pale_oak_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:pale_oak_plank_slab_double"
+    }
+  }
+}

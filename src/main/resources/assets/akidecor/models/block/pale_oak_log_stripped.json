@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "akidecor:blocks/stripped_pale_oak_log_top",
+    "up": "akidecor:blocks/stripped_pale_oak_log_top",
+    "north": "akidecor:blocks/stripped_pale_oak_log",
+    "east": "akidecor:blocks/stripped_pale_oak_log",
+    "south": "akidecor:blocks/stripped_pale_oak_log",
+    "west": "akidecor:blocks/stripped_pale_oak_log",
+    "particle": "akidecor:blocks/stripped_pale_oak_log_top"
+  }
+}
