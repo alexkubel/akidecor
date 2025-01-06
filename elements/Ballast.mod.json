@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Balastgravel"
+      },
+      {
+        "value": "CUSTOM:Balastgravel2"
+      },
+      {
+        "value": "CUSTOM:BalastGravel3"
+      },
+      {
+        "value": "CUSTOM:BallastRough"
+      },
+      {
+        "value": "CUSTOM:HighlandTuffBalast"
+      },
+      {
+        "value": "CUSTOM:AndesiteBallast"
+      },
+      {
+        "value": "CUSTOM:DioriteBallast"
+      },
+      {
+        "value": "CUSTOM:GraniteBallast"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ballast",
+    "namespace": "forge"
+  }
+}

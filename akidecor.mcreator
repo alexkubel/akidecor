@@ -3156,6 +3156,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "copper_grate_exposed"
+    },
+    {
+      "name": "Ballast",
+      "type": "tag",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ballast"
     }
   ],
   "variable_elements": [
