@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "minecraft:blocks/log_oak",
+    "particle": "minecraft:blocks/log_oak"
+  }
+}

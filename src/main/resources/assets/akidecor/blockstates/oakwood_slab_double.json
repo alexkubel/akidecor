@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "akidecor:oakwood_slab_double"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete_powder",
+      "data": 0
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "akidecor:cement",
+    "count": 1
+  }
+}

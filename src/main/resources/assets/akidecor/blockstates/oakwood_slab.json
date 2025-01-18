@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "akidecor:oakwood_slab"
+    },
+    "half=top,variant=default": {
+      "model": "akidecor:oakwood_slab_top"
+    }
+  }
+}
