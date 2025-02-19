@@ -12,22 +12,23 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
+import net.minecraft.block.BlockStairs;
 import net.minecraft.block.Block;
 
-import net.mcreator.akidecormod.creativetab.TabFutureNordale;
+import net.mcreator.akidecormod.creativetab.TabAkisbricks;
 import net.mcreator.akidecormod.ElementsAkidecorMod;
 
 @ElementsAkidecorMod.ModElement.Tag
-public class BlockStrippedMangroveWood extends ElementsAkidecorMod.ModElement {
-	@GameRegistry.ObjectHolder("akidecor:strippedmangrovewood")
+public class BlockLakestoneStair extends ElementsAkidecorMod.ModElement {
+	@GameRegistry.ObjectHolder("akidecor:lakestone_stair")
 	public static final Block block = null;
-	public BlockStrippedMangroveWood(ElementsAkidecorMod instance) {
-		super(instance, 224);
+	public BlockLakestoneStair(ElementsAkidecorMod instance) {
+		super(instance, 376);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("strippedmangrovewood"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("lakestone_stair"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -35,19 +36,19 @@ public class BlockStrippedMangroveWood extends ElementsAkidecorMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("akidecor:strippedmangrovewood", "inventory"));
+				new ModelResourceLocation("akidecor:lakestone_stair", "inventory"));
 	}
-	public static class BlockCustom extends Block {
+	public static class BlockCustom extends BlockStairs {
 		public BlockCustom() {
-			super(Material.WOOD);
-			setUnlocalizedName("strippedmangrovewood");
-			setSoundType(SoundType.WOOD);
-			setHarvestLevel("axe", 1);
+			super(new Block(Material.ROCK).getDefaultState());
+			setUnlocalizedName("lakestone_stair");
+			setSoundType(SoundType.STONE);
+			setHarvestLevel("pickaxe", 1);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabFutureNordale.tab);
+			setCreativeTab(TabAkisbricks.tab);
 		}
 	}
 }

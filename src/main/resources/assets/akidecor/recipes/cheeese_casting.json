@@ -1,0 +1,13 @@
+{
+  "group": "akidecor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "akidecor:malk"
+    }
+  ],
+  "result": {
+    "item": "akidecor:ingotbronze",
+    "count": 16
+  }
+}

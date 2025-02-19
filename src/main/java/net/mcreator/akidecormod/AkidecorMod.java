@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = AkidecorMod.MODID, version = AkidecorMod.VERSION)
 public class AkidecorMod {
 	public static final String MODID = "akidecor";
-	public static final String VERSION = "0.1.5.0";
+	public static final String VERSION = "0.1.5.1";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("akidecor:a");
 	@SidedProxy(clientSide = "net.mcreator.akidecormod.ClientProxyAkidecorMod", serverSide = "net.mcreator.akidecormod.ServerProxyAkidecorMod")
 	public static IProxyAkidecorMod proxy;

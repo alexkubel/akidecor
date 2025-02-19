@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 
+import net.minecraft.util.BlockRenderLayer;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
@@ -48,6 +49,12 @@ public class BlockCopperGrate extends ElementsAkidecorMod.ModElement {
 			setLightLevel(0F);
 			setLightOpacity(1);
 			setCreativeTab(TabFutureNordale.tab);
+		}
+
+		@SideOnly(Side.CLIENT)
+		@Override
+		public BlockRenderLayer getBlockLayer() {
+			return BlockRenderLayer.CUTOUT;
 		}
 
 		@Override
